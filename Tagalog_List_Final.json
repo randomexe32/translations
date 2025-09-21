@@ -1,0 +1,9069 @@
+[
+  {
+    "Word": "aam",
+    "Hint": "___",
+    "Length": 3,
+    "Translation": "aam",
+    "Index": 1
+  },
+  {
+    "Word": "dil",
+    "Hint": "___",
+    "Length": 3,
+    "Translation": "dil",
+    "Index": 2
+  },
+  {
+    "Word": "din",
+    "Hint": "___",
+    "Length": 3,
+    "Translation": "din",
+    "Index": 3
+  },
+  {
+    "Word": "Don",
+    "Hint": "___",
+    "Length": 3,
+    "Translation": "Don",
+    "Index": 4
+  },
+  {
+    "Word": "eid",
+    "Hint": "___",
+    "Length": 3,
+    "Translation": "eid",
+    "Index": 5
+  },
+  {
+    "Word": "gai",
+    "Hint": "___",
+    "Length": 3,
+    "Translation": "gai",
+    "Index": 6
+  },
+  {
+    "Word": "KGF",
+    "Hint": "___",
+    "Length": 3,
+    "Translation": "KGF",
+    "Index": 7
+  },
+  {
+    "Word": "loo",
+    "Hint": "___",
+    "Length": 3,
+    "Translation": "loo",
+    "Index": 8
+  },
+  {
+    "Word": "mez",
+    "Hint": "___",
+    "Length": 3,
+    "Translation": "mez",
+    "Index": 9
+  },
+  {
+    "Word": "mor",
+    "Hint": "___",
+    "Length": 3,
+    "Translation": "mor",
+    "Index": 10
+  },
+  {
+    "Word": "ped",
+    "Hint": "___",
+    "Length": 3,
+    "Translation": "ped",
+    "Index": 11
+  },
+  {
+    "Word": "Ram",
+    "Hint": "___",
+    "Length": 3,
+    "Translation": "Ram",
+    "Index": 12
+  },
+  {
+    "Word": "RRR",
+    "Hint": "___",
+    "Length": 3,
+    "Translation": "RRR",
+    "Index": 13
+  },
+  {
+    "Word": "sar",
+    "Hint": "___",
+    "Length": 3,
+    "Translation": "sar",
+    "Index": 14
+  },
+  {
+    "Word": "seb",
+    "Hint": "___",
+    "Length": 3,
+    "Translation": "seb",
+    "Index": 15
+  },
+  {
+    "Word": "sui",
+    "Hint": "___",
+    "Length": 3,
+    "Translation": "sui",
+    "Index": 16
+  },
+  {
+    "Word": "tez",
+    "Hint": "___",
+    "Length": 3,
+    "Translation": "tez",
+    "Index": 17
+  },
+  {
+    "Word": "aage",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "aage",
+    "Index": 18
+  },
+  {
+    "Word": "anda",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "anda",
+    "Index": 19
+  },
+  {
+    "Word": "awaz",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "awaz",
+    "Index": 20
+  },
+  {
+    "Word": "baal",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "baal",
+    "Index": 21
+  },
+  {
+    "Word": "bada",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "bada",
+    "Index": 22
+  },
+  {
+    "Word": "bagh",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "bagh",
+    "Index": 23
+  },
+  {
+    "Word": "bahu",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "bahu",
+    "Index": 24
+  },
+  {
+    "Word": "beta",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "beta",
+    "Index": 25
+  },
+  {
+    "Word": "beti",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "beti",
+    "Index": 26
+  },
+  {
+    "Word": "bhed",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "bhed",
+    "Index": 27
+  },
+  {
+    "Word": "chai",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "chai",
+    "Index": 28
+  },
+  {
+    "Word": "chor",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "chor",
+    "Index": 29
+  },
+  {
+    "Word": "chot",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "chot",
+    "Index": 30
+  },
+  {
+    "Word": "chup",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "chup",
+    "Index": 31
+  },
+  {
+    "Word": "dada",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "dada",
+    "Index": 32
+  },
+  {
+    "Word": "dadi",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "dadi",
+    "Index": 33
+  },
+  {
+    "Word": "dand",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "dand",
+    "Index": 34
+  },
+  {
+    "Word": "dard",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "dard",
+    "Index": 35
+  },
+  {
+    "Word": "daru",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "daru",
+    "Index": 36
+  },
+  {
+    "Word": "DDLJ",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "DDLJ",
+    "Index": 37
+  },
+  {
+    "Word": "dhol",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "dhol",
+    "Index": 38
+  },
+  {
+    "Word": "didi",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "didi",
+    "Index": 39
+  },
+  {
+    "Word": "diya",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "diya",
+    "Index": 40
+  },
+  {
+    "Word": "doli",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "doli",
+    "Index": 41
+  },
+  {
+    "Word": "dosa",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "dosa",
+    "Index": 42
+  },
+  {
+    "Word": "dost",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "dost",
+    "Index": 43
+  },
+  {
+    "Word": "dukh",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "dukh",
+    "Index": 44
+  },
+  {
+    "Word": "feku",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "feku",
+    "Index": 45
+  },
+  {
+    "Word": "gaal",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "gaal",
+    "Index": 46
+  },
+  {
+    "Word": "gala",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "gala",
+    "Index": 47
+  },
+  {
+    "Word": "gali",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "gali",
+    "Index": 48
+  },
+  {
+    "Word": "gali",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "gali",
+    "Index": 49
+  },
+  {
+    "Word": "gali",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "gali",
+    "Index": 50
+  },
+  {
+    "Word": "gaon",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "gaon",
+    "Index": 51
+  },
+  {
+    "Word": "ghar",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "ghar",
+    "Index": 52
+  },
+  {
+    "Word": "godi",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "godi",
+    "Index": 53
+  },
+  {
+    "Word": "goli",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "goli",
+    "Index": 54
+  },
+  {
+    "Word": "grah",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "grah",
+    "Index": 55
+  },
+  {
+    "Word": "gufa",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "gufa",
+    "Index": 56
+  },
+  {
+    "Word": "hans",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "hans",
+    "Index": 57
+  },
+  {
+    "Word": "hara",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "hara",
+    "Index": 58
+  },
+  {
+    "Word": "holi",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "holi",
+    "Index": 59
+  },
+  {
+    "Word": "hoth",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "hoth",
+    "Index": 60
+  },
+  {
+    "Word": "imli",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "imli",
+    "Index": 61
+  },
+  {
+    "Word": "isai",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "isai",
+    "Index": 62
+  },
+  {
+    "Word": "jaan",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "jaan",
+    "Index": 63
+  },
+  {
+    "Word": "jain",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "jain",
+    "Index": 64
+  },
+  {
+    "Word": "josh",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "josh",
+    "Index": 65
+  },
+  {
+    "Word": "juta",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "juta",
+    "Index": 66
+  },
+  {
+    "Word": "juta",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "juta",
+    "Index": 67
+  },
+  {
+    "Word": "kaan",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "kaan",
+    "Index": 68
+  },
+  {
+    "Word": "kaju",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "kaju",
+    "Index": 69
+  },
+  {
+    "Word": "kala",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "kala",
+    "Index": 70
+  },
+  {
+    "Word": "Kali",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "Kali",
+    "Index": 71
+  },
+  {
+    "Word": "kavi",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "kavi",
+    "Index": 72
+  },
+  {
+    "Word": "kela",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "kela",
+    "Index": 73
+  },
+  {
+    "Word": "khet",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "khet",
+    "Index": 74
+  },
+  {
+    "Word": "kuan",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "kuan",
+    "Index": 75
+  },
+  {
+    "Word": "kuan",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "kuan",
+    "Index": 76
+  },
+  {
+    "Word": "laal",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "laal",
+    "Index": 77
+  },
+  {
+    "Word": "loha",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "loha",
+    "Index": 78
+  },
+  {
+    "Word": "lota",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "lota",
+    "Index": 79
+  },
+  {
+    "Word": "ludo",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "ludo",
+    "Index": 80
+  },
+  {
+    "Word": "mala",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "mala",
+    "Index": 81
+  },
+  {
+    "Word": "mard",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "mard",
+    "Index": 82
+  },
+  {
+    "Word": "mela",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "mela",
+    "Index": 83
+  },
+  {
+    "Word": "momo",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "momo",
+    "Index": 84
+  },
+  {
+    "Word": "mota",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "mota",
+    "Index": 85
+  },
+  {
+    "Word": "naak",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "naak",
+    "Index": 86
+  },
+  {
+    "Word": "nadi",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "nadi",
+    "Index": 87
+  },
+  {
+    "Word": "nala",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "nala",
+    "Index": 88
+  },
+  {
+    "Word": "nark",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "nark",
+    "Index": 89
+  },
+  {
+    "Word": "neta",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "neta",
+    "Index": 90
+  },
+  {
+    "Word": "oont",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "oont",
+    "Index": 91
+  },
+  {
+    "Word": "paad",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "paad",
+    "Index": 92
+  },
+  {
+    "Word": "pair",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "pair",
+    "Index": 93
+  },
+  {
+    "Word": "pair",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "pair",
+    "Index": 94
+  },
+  {
+    "Word": "pani",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "pani",
+    "Index": 95
+  },
+  {
+    "Word": "papa",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "papa",
+    "Index": 96
+  },
+  {
+    "Word": "pari",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "pari",
+    "Index": 97
+  },
+  {
+    "Word": "pati",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "pati",
+    "Index": 98
+  },
+  {
+    "Word": "raat",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "raat",
+    "Index": 99
+  },
+  {
+    "Word": "raja",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "raja",
+    "Index": 100
+  },
+  {
+    "Word": "Raju",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "Raju",
+    "Index": 101
+  },
+  {
+    "Word": "rang",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "rang",
+    "Index": 102
+  },
+  {
+    "Word": "rani",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "rani",
+    "Index": 103
+  },
+  {
+    "Word": "rona",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "rona",
+    "Index": 104
+  },
+  {
+    "Word": "roti",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "roti",
+    "Index": 105
+  },
+  {
+    "Word": "saas",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "saas",
+    "Index": 106
+  },
+  {
+    "Word": "sahi",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "sahi",
+    "Index": 107
+  },
+  {
+    "Word": "sher",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "sher",
+    "Index": 108
+  },
+  {
+    "Word": "Shiv",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "Shiv",
+    "Index": 109
+  },
+  {
+    "Word": "sikh",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "sikh",
+    "Index": 110
+  },
+  {
+    "Word": "Sita",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "Sita",
+    "Index": 111
+  },
+  {
+    "Word": "sona",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "sona",
+    "Index": 112
+  },
+  {
+    "Word": "suar",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "suar",
+    "Index": 113
+  },
+  {
+    "Word": "susu",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "susu",
+    "Index": 114
+  },
+  {
+    "Word": "tala",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "tala",
+    "Index": 115
+  },
+  {
+    "Word": "tara",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "tara",
+    "Index": 116
+  },
+  {
+    "Word": "tawa",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "tawa",
+    "Index": 117
+  },
+  {
+    "Word": "teer",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "teer",
+    "Index": 118
+  },
+  {
+    "Word": "tofa",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "tofa",
+    "Index": 119
+  },
+  {
+    "Word": "tond",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "tond",
+    "Index": 120
+  },
+  {
+    "Word": "topi",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "topi",
+    "Index": 121
+  },
+  {
+    "Word": "tota",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "tota",
+    "Index": 122
+  },
+  {
+    "Word": "tuta",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "tuta",
+    "Index": 123
+  },
+  {
+    "Word": "ullu",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "ullu",
+    "Index": 124
+  },
+  {
+    "Word": "ulti",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "ulti",
+    "Index": 125
+  },
+  {
+    "Word": "urja",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "urja",
+    "Index": 126
+  },
+  {
+    "Word": "vash",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "vash",
+    "Index": 127
+  },
+  {
+    "Word": "vish",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "vish",
+    "Index": 128
+  },
+  {
+    "Word": "yuva",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "yuva",
+    "Index": 129
+  },
+  {
+    "Word": "ZNMD",
+    "Hint": "____",
+    "Length": 4,
+    "Translation": "ZNMD",
+    "Index": 130
+  },
+  {
+    "Word": "aaina",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "aaina",
+    "Index": 131
+  },
+  {
+    "Word": "aaloo",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "aaloo",
+    "Index": 132
+  },
+  {
+    "Word": "aankh",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "aankh",
+    "Index": 133
+  },
+  {
+    "Word": "aansu",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "aansu",
+    "Index": 134
+  },
+  {
+    "Word": "aarti",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "aarti",
+    "Index": 135
+  },
+  {
+    "Word": "adrak",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "adrak",
+    "Index": 136
+  },
+  {
+    "Word": "afsos",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "afsos",
+    "Index": 137
+  },
+  {
+    "Word": "akash",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "akash",
+    "Index": 138
+  },
+  {
+    "Word": "ameer",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "ameer",
+    "Index": 139
+  },
+  {
+    "Word": "anaar",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "anaar",
+    "Index": 140
+  },
+  {
+    "Word": "anath",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "anath",
+    "Index": 141
+  },
+  {
+    "Word": "andha",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "andha",
+    "Index": 142
+  },
+  {
+    "Word": "anpad",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "anpad",
+    "Index": 143
+  },
+  {
+    "Word": "Arjun",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "Arjun",
+    "Index": 144
+  },
+  {
+    "Word": "aurat",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "aurat",
+    "Index": 145
+  },
+  {
+    "Word": "badal",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "badal",
+    "Index": 146
+  },
+  {
+    "Word": "badam",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "badam",
+    "Index": 147
+  },
+  {
+    "Word": "bakri",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "bakri",
+    "Index": 148
+  },
+  {
+    "Word": "baraf",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "baraf",
+    "Index": 149
+  },
+  {
+    "Word": "barat",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "barat",
+    "Index": 150
+  },
+  {
+    "Word": "bauna",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "bauna",
+    "Index": 151
+  },
+  {
+    "Word": "bazar",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "bazar",
+    "Index": 152
+  },
+  {
+    "Word": "beedi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "beedi",
+    "Index": 153
+  },
+  {
+    "Word": "behra",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "behra",
+    "Index": 154
+  },
+  {
+    "Word": "belan",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "belan",
+    "Index": 155
+  },
+  {
+    "Word": "Ben 10",
+    "Hint": "___ __",
+    "Length": 5,
+    "Translation": "Ben 10",
+    "Index": 156
+  },
+  {
+    "Word": "bewda",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "bewda",
+    "Index": 157
+  },
+  {
+    "Word": "bhalu",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "bhalu",
+    "Index": 158
+  },
+  {
+    "Word": "bhoot",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "bhoot",
+    "Index": 159
+  },
+  {
+    "Word": "bhukh",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "bhukh",
+    "Index": 160
+  },
+  {
+    "Word": "bhura",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "bhura",
+    "Index": 161
+  },
+  {
+    "Word": "bijli",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "bijli",
+    "Index": 162
+  },
+  {
+    "Word": "billi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "billi",
+    "Index": 163
+  },
+  {
+    "Word": "bimar",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "bimar",
+    "Index": 164
+  },
+  {
+    "Word": "bindi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "bindi",
+    "Index": 165
+  },
+  {
+    "Word": "bolna",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "bolna",
+    "Index": 166
+  },
+  {
+    "Word": "boond",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "boond",
+    "Index": 167
+  },
+  {
+    "Word": "burqa",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "burqa",
+    "Index": 168
+  },
+  {
+    "Word": "chabi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "chabi",
+    "Index": 169
+  },
+  {
+    "Word": "chita",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "chita",
+    "Index": 170
+  },
+  {
+    "Word": "choli",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "choli",
+    "Index": 171
+  },
+  {
+    "Word": "chuha",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "chuha",
+    "Index": 172
+  },
+  {
+    "Word": "daaku",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "daaku",
+    "Index": 173
+  },
+  {
+    "Word": "daant",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "daant",
+    "Index": 174
+  },
+  {
+    "Word": "dabba",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "dabba",
+    "Index": 175
+  },
+  {
+    "Word": "dahej",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "dahej",
+    "Index": 176
+  },
+  {
+    "Word": "dakar",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "dakar",
+    "Index": 177
+  },
+  {
+    "Word": "damad",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "damad",
+    "Index": 178
+  },
+  {
+    "Word": "danav",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "danav",
+    "Index": 179
+  },
+  {
+    "Word": "darar",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "darar",
+    "Index": 180
+  },
+  {
+    "Word": "darzi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "darzi",
+    "Index": 181
+  },
+  {
+    "Word": "dawai",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "dawai",
+    "Index": 182
+  },
+  {
+    "Word": "dawat",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "dawat",
+    "Index": 183
+  },
+  {
+    "Word": "dayan",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "dayan",
+    "Index": 184
+  },
+  {
+    "Word": "devta",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "devta",
+    "Index": 185
+  },
+  {
+    "Word": "dhaba",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "dhaba",
+    "Index": 186
+  },
+  {
+    "Word": "dhobi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "dhobi",
+    "Index": 187
+  },
+  {
+    "Word": "dhoop",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "dhoop",
+    "Index": 188
+  },
+  {
+    "Word": "dhoti",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "dhoti",
+    "Index": 189
+  },
+  {
+    "Word": "doodh",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "doodh",
+    "Index": 190
+  },
+  {
+    "Word": "dulha",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "dulha",
+    "Index": 191
+  },
+  {
+    "Word": "Durga",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "Durga",
+    "Index": 192
+  },
+  {
+    "Word": "Fanta",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "Fanta",
+    "Index": 193
+  },
+  {
+    "Word": "farsh",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "farsh",
+    "Index": 194
+  },
+  {
+    "Word": "fattu",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "fattu",
+    "Index": 195
+  },
+  {
+    "Word": "fauji",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "fauji",
+    "Index": 196
+  },
+  {
+    "Word": "fefda",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "fefda",
+    "Index": 197
+  },
+  {
+    "Word": "Gadar",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "Gadar",
+    "Index": 198
+  },
+  {
+    "Word": "gadha",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "gadha",
+    "Index": 199
+  },
+  {
+    "Word": "gajar",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "gajar",
+    "Index": 200
+  },
+  {
+    "Word": "gajra",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "gajra",
+    "Index": 201
+  },
+  {
+    "Word": "galat",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "galat",
+    "Index": 202
+  },
+  {
+    "Word": "gamla",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "gamla",
+    "Index": 203
+  },
+  {
+    "Word": "ganit",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "ganit",
+    "Index": 204
+  },
+  {
+    "Word": "ganja",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "ganja",
+    "Index": 205
+  },
+  {
+    "Word": "garam",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "garam",
+    "Index": 206
+  },
+  {
+    "Word": "garmi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "garmi",
+    "Index": 207
+  },
+  {
+    "Word": "gawar",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "gawar",
+    "Index": 208
+  },
+  {
+    "Word": "gayab",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "gayab",
+    "Index": 209
+  },
+  {
+    "Word": "gayab",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "gayab",
+    "Index": 210
+  },
+  {
+    "Word": "gayak",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "gayak",
+    "Index": 211
+  },
+  {
+    "Word": "ghaas",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "ghaas",
+    "Index": 212
+  },
+  {
+    "Word": "ghadi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "ghadi",
+    "Index": 213
+  },
+  {
+    "Word": "ghoda",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "ghoda",
+    "Index": 214
+  },
+  {
+    "Word": "girna",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "girna",
+    "Index": 215
+  },
+  {
+    "Word": "gobar",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "gobar",
+    "Index": 216
+  },
+  {
+    "Word": "gobhi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "gobhi",
+    "Index": 217
+  },
+  {
+    "Word": "gudda",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "gudda",
+    "Index": 218
+  },
+  {
+    "Word": "gulab",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "gulab",
+    "Index": 219
+  },
+  {
+    "Word": "gulel",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "gulel",
+    "Index": 220
+  },
+  {
+    "Word": "gunda",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "gunda",
+    "Index": 221
+  },
+  {
+    "Word": "gunga",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "gunga",
+    "Index": 222
+  },
+  {
+    "Word": "gurda",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "gurda",
+    "Index": 223
+  },
+  {
+    "Word": "gussa",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "gussa",
+    "Index": 224
+  },
+  {
+    "Word": "haath",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "haath",
+    "Index": 225
+  },
+  {
+    "Word": "haddi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "haddi",
+    "Index": 226
+  },
+  {
+    "Word": "hakla",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "hakla",
+    "Index": 227
+  },
+  {
+    "Word": "haldi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "haldi",
+    "Index": 228
+  },
+  {
+    "Word": "hamla",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "hamla",
+    "Index": 229
+  },
+  {
+    "Word": "hasna",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "hasna",
+    "Index": 230
+  },
+  {
+    "Word": "hawan",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "hawan",
+    "Index": 231
+  },
+  {
+    "Word": "hindu",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "hindu",
+    "Index": 232
+  },
+  {
+    "Word": "hiran",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "hiran",
+    "Index": 233
+  },
+  {
+    "Word": "ilaaj",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "ilaaj",
+    "Index": 234
+  },
+  {
+    "Word": "Indra",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "Indra",
+    "Index": 235
+  },
+  {
+    "Word": "Jaadu",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "Jaadu",
+    "Index": 236
+  },
+  {
+    "Word": "Jaggu",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "Jaggu",
+    "Index": 237
+  },
+  {
+    "Word": "jahil",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "jahil",
+    "Index": 238
+  },
+  {
+    "Word": "jalan",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "jalan",
+    "Index": 239
+  },
+  {
+    "Word": "jamun",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "jamun",
+    "Index": 240
+  },
+  {
+    "Word": "jawan",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "jawan",
+    "Index": 241
+  },
+  {
+    "Word": "jawan",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "jawan",
+    "Index": 242
+  },
+  {
+    "Word": "jeebh",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "jeebh",
+    "Index": 243
+  },
+  {
+    "Word": "jeera",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "jeera",
+    "Index": 244
+  },
+  {
+    "Word": "jhadu",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "jhadu",
+    "Index": 245
+  },
+  {
+    "Word": "jhola",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "jhola",
+    "Index": 246
+  },
+  {
+    "Word": "jhula",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "jhula",
+    "Index": 247
+  },
+  {
+    "Word": "jhula",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "jhula",
+    "Index": 248
+  },
+  {
+    "Word": "jigar",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "jigar",
+    "Index": 249
+  },
+  {
+    "Word": "judai",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "judai",
+    "Index": 250
+  },
+  {
+    "Word": "jugnu",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "jugnu",
+    "Index": 251
+  },
+  {
+    "Word": "jwala",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "jwala",
+    "Index": 252
+  },
+  {
+    "Word": "jyoti",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "jyoti",
+    "Index": 253
+  },
+  {
+    "Word": "kabza",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kabza",
+    "Index": 254
+  },
+  {
+    "Word": "kadai",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kadai",
+    "Index": 255
+  },
+  {
+    "Word": "kaddu",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kaddu",
+    "Index": 256
+  },
+  {
+    "Word": "kagaz",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kagaz",
+    "Index": 257
+  },
+  {
+    "Word": "kaidi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kaidi",
+    "Index": 258
+  },
+  {
+    "Word": "kajal",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kajal",
+    "Index": 259
+  },
+  {
+    "Word": "kalai",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kalai",
+    "Index": 260
+  },
+  {
+    "Word": "kalam",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kalam",
+    "Index": 261
+  },
+  {
+    "Word": "kamal",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kamal",
+    "Index": 262
+  },
+  {
+    "Word": "kamar",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kamar",
+    "Index": 263
+  },
+  {
+    "Word": "kamra",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kamra",
+    "Index": 264
+  },
+  {
+    "Word": "kanta",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kanta",
+    "Index": 265
+  },
+  {
+    "Word": "kapda",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kapda",
+    "Index": 266
+  },
+  {
+    "Word": "kapur",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kapur",
+    "Index": 267
+  },
+  {
+    "Word": "kasam",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kasam",
+    "Index": 268
+  },
+  {
+    "Word": "kauwa",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kauwa",
+    "Index": 269
+  },
+  {
+    "Word": "kekda",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kekda",
+    "Index": 270
+  },
+  {
+    "Word": "ketli",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "ketli",
+    "Index": 271
+  },
+  {
+    "Word": "khana",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "khana",
+    "Index": 272
+  },
+  {
+    "Word": "kheer",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kheer",
+    "Index": 273
+  },
+  {
+    "Word": "khoon",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "khoon",
+    "Index": 274
+  },
+  {
+    "Word": "kisan",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kisan",
+    "Index": 275
+  },
+  {
+    "Word": "kohni",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kohni",
+    "Index": 276
+  },
+  {
+    "Word": "kotha",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kotha",
+    "Index": 277
+  },
+  {
+    "Word": "koyla",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "koyla",
+    "Index": 278
+  },
+  {
+    "Word": "Krish",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "Krish",
+    "Index": 279
+  },
+  {
+    "Word": "krodh",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "krodh",
+    "Index": 280
+  },
+  {
+    "Word": "kudna",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kudna",
+    "Index": 281
+  },
+  {
+    "Word": "kulfi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kulfi",
+    "Index": 282
+  },
+  {
+    "Word": "kundi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kundi",
+    "Index": 283
+  },
+  {
+    "Word": "kursi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kursi",
+    "Index": 284
+  },
+  {
+    "Word": "kurta",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kurta",
+    "Index": 285
+  },
+  {
+    "Word": "kutta",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "kutta",
+    "Index": 286
+  },
+  {
+    "Word": "ladai",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "ladai",
+    "Index": 287
+  },
+  {
+    "Word": "ladka",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "ladka",
+    "Index": 288
+  },
+  {
+    "Word": "ladki",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "ladki",
+    "Index": 289
+  },
+  {
+    "Word": "lafda",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "lafda",
+    "Index": 290
+  },
+  {
+    "Word": "lakdi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "lakdi",
+    "Index": 291
+  },
+  {
+    "Word": "Lanka",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "Lanka",
+    "Index": 292
+  },
+  {
+    "Word": "lassi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "lassi",
+    "Index": 293
+  },
+  {
+    "Word": "lattu",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "lattu",
+    "Index": 294
+  },
+  {
+    "Word": "lauki",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "lauki",
+    "Index": 295
+  },
+  {
+    "Word": "laung",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "laung",
+    "Index": 296
+  },
+  {
+    "Word": "leher",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "leher",
+    "Index": 297
+  },
+  {
+    "Word": "lomdi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "lomdi",
+    "Index": 298
+  },
+  {
+    "Word": "luhar",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "luhar",
+    "Index": 299
+  },
+  {
+    "Word": "lungi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "lungi",
+    "Index": 300
+  },
+  {
+    "Word": "Maaza",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "Maaza",
+    "Index": 301
+  },
+  {
+    "Word": "maggi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "maggi",
+    "Index": 302
+  },
+  {
+    "Word": "mahal",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "mahal",
+    "Index": 303
+  },
+  {
+    "Word": "makdi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "makdi",
+    "Index": 304
+  },
+  {
+    "Word": "makka",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "makka",
+    "Index": 305
+  },
+  {
+    "Word": "malik",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "malik",
+    "Index": 306
+  },
+  {
+    "Word": "masti",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "masti",
+    "Index": 307
+  },
+  {
+    "Word": "matar",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "matar",
+    "Index": 308
+  },
+  {
+    "Word": "matka",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "matka",
+    "Index": 309
+  },
+  {
+    "Word": "mirch",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "mirch",
+    "Index": 310
+  },
+  {
+    "Word": "mitti",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "mitti",
+    "Index": 311
+  },
+  {
+    "Word": "mochi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "mochi",
+    "Index": 312
+  },
+  {
+    "Word": "moksh",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "moksh",
+    "Index": 313
+  },
+  {
+    "Word": "mooli",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "mooli",
+    "Index": 314
+  },
+  {
+    "Word": "mujra",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "mujra",
+    "Index": 315
+  },
+  {
+    "Word": "mummy",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "mummy",
+    "Index": 316
+  },
+  {
+    "Word": "murgi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "murgi",
+    "Index": 317
+  },
+  {
+    "Word": "nagin",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "nagin",
+    "Index": 318
+  },
+  {
+    "Word": "namak",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "namak",
+    "Index": 319
+  },
+  {
+    "Word": "nanga",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "nanga",
+    "Index": 320
+  },
+  {
+    "Word": "nasha",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "nasha",
+    "Index": 321
+  },
+  {
+    "Word": "nazar",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "nazar",
+    "Index": 322
+  },
+  {
+    "Word": "neela",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "neela",
+    "Index": 323
+  },
+  {
+    "Word": "neend",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "neend",
+    "Index": 324
+  },
+  {
+    "Word": "neend",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "neend",
+    "Index": 325
+  },
+  {
+    "Word": "nimbu",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "nimbu",
+    "Index": 326
+  },
+  {
+    "Word": "Nirma",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "Nirma",
+    "Index": 327
+  },
+  {
+    "Word": "Nirma",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "Nirma",
+    "Index": 328
+  },
+  {
+    "Word": "pagal",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "pagal",
+    "Index": 329
+  },
+  {
+    "Word": "pagdi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "pagdi",
+    "Index": 330
+  },
+  {
+    "Word": "pahad",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "pahad",
+    "Index": 331
+  },
+  {
+    "Word": "palak",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "palak",
+    "Index": 332
+  },
+  {
+    "Word": "parda",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "parda",
+    "Index": 333
+  },
+  {
+    "Word": "patla",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "patla",
+    "Index": 334
+  },
+  {
+    "Word": "patni",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "patni",
+    "Index": 335
+  },
+  {
+    "Word": "patta",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "patta",
+    "Index": 336
+  },
+  {
+    "Word": "patti",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "patti",
+    "Index": 337
+  },
+  {
+    "Word": "payal",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "payal",
+    "Index": 338
+  },
+  {
+    "Word": "peela",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "peela",
+    "Index": 339
+  },
+  {
+    "Word": "peena",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "peena",
+    "Index": 340
+  },
+  {
+    "Word": "peeth",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "peeth",
+    "Index": 341
+  },
+  {
+    "Word": "phool",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "phool",
+    "Index": 342
+  },
+  {
+    "Word": "pooja",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "pooja",
+    "Index": 343
+  },
+  {
+    "Word": "pyaar",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "pyaar",
+    "Index": 344
+  },
+  {
+    "Word": "pyaaz",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "pyaaz",
+    "Index": 345
+  },
+  {
+    "Word": "Ra.One",
+    "Hint": "__.___",
+    "Length": 5,
+    "Translation": "Ra.One",
+    "Index": 346
+  },
+  {
+    "Word": "Radha",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "Radha",
+    "Index": 347
+  },
+  {
+    "Word": "rakhi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "rakhi",
+    "Index": 348
+  },
+  {
+    "Word": "rasoi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "rasoi",
+    "Index": 349
+  },
+  {
+    "Word": "rassi",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "rassi",
+    "Index": 350
+  },
+  {
+    "Word": "rasta",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "rasta",
+    "Index": 351
+  },
+  {
+    "Word": "rasta",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "rasta",
+    "Index": 352
+  },
+  {
+    "Word": "Ravan",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "Ravan",
+    "Index": 353
+  },
+  {
+    "Word": "rekha",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "rekha",
+    "Index": 354
+  },
+  {
+    "Word": "rumal",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "rumal",
+    "Index": 355
+  },
+  {
+    "Word": "saanp",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "saanp",
+    "Index": 356
+  },
+  {
+    "Word": "saans",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "saans",
+    "Index": 357
+  },
+  {
+    "Word": "sabji",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "sabji",
+    "Index": 358
+  },
+  {
+    "Word": "sabun",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "sabun",
+    "Index": 359
+  },
+  {
+    "Word": "sadhu",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "sadhu",
+    "Index": 360
+  },
+  {
+    "Word": "safed",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "safed",
+    "Index": 361
+  },
+  {
+    "Word": "safed",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "safed",
+    "Index": 362
+  },
+  {
+    "Word": "sagar",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "sagar",
+    "Index": 363
+  },
+  {
+    "Word": "sajna",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "sajna",
+    "Index": 364
+  },
+  {
+    "Word": "sapna",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "sapna",
+    "Index": 365
+  },
+  {
+    "Word": "saree",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "saree",
+    "Index": 366
+  },
+  {
+    "Word": "sarso",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "sarso",
+    "Index": 367
+  },
+  {
+    "Word": "sasur",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "sasur",
+    "Index": 368
+  },
+  {
+    "Word": "saunf",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "saunf",
+    "Index": 369
+  },
+  {
+    "Word": "seena",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "seena",
+    "Index": 370
+  },
+  {
+    "Word": "sehra",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "sehra",
+    "Index": 371
+  },
+  {
+    "Word": "sevai",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "sevai",
+    "Index": 372
+  },
+  {
+    "Word": "sevak",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "sevak",
+    "Index": 373
+  },
+  {
+    "Word": "shama",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "shama",
+    "Index": 374
+  },
+  {
+    "Word": "shani",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "shani",
+    "Index": 375
+  },
+  {
+    "Word": "sikka",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "sikka",
+    "Index": 376
+  },
+  {
+    "Word": "silai",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "silai",
+    "Index": 377
+  },
+  {
+    "Word": "silna",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "silna",
+    "Index": 378
+  },
+  {
+    "Word": "sitar",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "sitar",
+    "Index": 379
+  },
+  {
+    "Word": "Stree",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "Stree",
+    "Index": 380
+  },
+  {
+    "Word": "sunar",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "sunar",
+    "Index": 381
+  },
+  {
+    "Word": "suraj",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "suraj",
+    "Index": 382
+  },
+  {
+    "Word": "sutli",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "sutli",
+    "Index": 383
+  },
+  {
+    "Word": "swarg",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "swarg",
+    "Index": 384
+  },
+  {
+    "Word": "taali",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "taali",
+    "Index": 385
+  },
+  {
+    "Word": "tabla",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "tabla",
+    "Index": 386
+  },
+  {
+    "Word": "takat",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "takat",
+    "Index": 387
+  },
+  {
+    "Word": "takla",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "takla",
+    "Index": 388
+  },
+  {
+    "Word": "talaq",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "talaq",
+    "Index": 389
+  },
+  {
+    "Word": "tapri",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "tapri",
+    "Index": 390
+  },
+  {
+    "Word": "tatti",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "tatti",
+    "Index": 391
+  },
+  {
+    "Word": "thali",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "thali",
+    "Index": 392
+  },
+  {
+    "Word": "tilak",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "tilak",
+    "Index": 393
+  },
+  {
+    "Word": "tilli",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "tilli",
+    "Index": 394
+  },
+  {
+    "Word": "titli",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "titli",
+    "Index": 395
+  },
+  {
+    "Word": "TMKOC",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "TMKOC",
+    "Index": 396
+  },
+  {
+    "Word": "todna",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "todna",
+    "Index": 397
+  },
+  {
+    "Word": "tokri",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "tokri",
+    "Index": 398
+  },
+  {
+    "Word": "tolna",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "tolna",
+    "Index": 399
+  },
+  {
+    "Word": "totka",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "totka",
+    "Index": 400
+  },
+  {
+    "Word": "tufan",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "tufan",
+    "Index": 401
+  },
+  {
+    "Word": "tukda",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "tukda",
+    "Index": 402
+  },
+  {
+    "Word": "tulna",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "tulna",
+    "Index": 403
+  },
+  {
+    "Word": "udaas",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "udaas",
+    "Index": 404
+  },
+  {
+    "Word": "ungli",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "ungli",
+    "Index": 405
+  },
+  {
+    "Word": "uthna",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "uthna",
+    "Index": 406
+  },
+  {
+    "Word": "vahan",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "vahan",
+    "Index": 407
+  },
+  {
+    "Word": "Vicks",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "Vicks",
+    "Index": 408
+  },
+  {
+    "Word": "Virus",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "Virus",
+    "Index": 409
+  },
+  {
+    "Word": "vivah",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "vivah",
+    "Index": 410
+  },
+  {
+    "Word": "yagya",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "yagya",
+    "Index": 411
+  },
+  {
+    "Word": "yuddh",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "yuddh",
+    "Index": 412
+  },
+  {
+    "Word": "zeher",
+    "Hint": "_____",
+    "Length": 5,
+    "Translation": "zeher",
+    "Index": 413
+  },
+  {
+    "Word": "aahuti",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "aahuti",
+    "Index": 414
+  },
+  {
+    "Word": "aam ras",
+    "Hint": "___ ___",
+    "Length": 6,
+    "Translation": "aam ras",
+    "Index": 415
+  },
+  {
+    "Word": "aasman",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "aasman",
+    "Index": 416
+  },
+  {
+    "Word": "Ahem Ji",
+    "Hint": "____ __",
+    "Length": 6,
+    "Translation": "Ahem Ji",
+    "Index": 417
+  },
+  {
+    "Word": "almari",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "almari",
+    "Index": 418
+  },
+  {
+    "Word": "amrood",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "amrood",
+    "Index": 419
+  },
+  {
+    "Word": "ananas",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "ananas",
+    "Index": 420
+  },
+  {
+    "Word": "angoor",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "angoor",
+    "Index": 421
+  },
+  {
+    "Word": "angrez",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "angrez",
+    "Index": 422
+  },
+  {
+    "Word": "Apsara",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "Apsara",
+    "Index": 423
+  },
+  {
+    "Word": "atithi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "atithi",
+    "Index": 424
+  },
+  {
+    "Word": "baalti",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "baalti",
+    "Index": 425
+  },
+  {
+    "Word": "bachha",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "bachha",
+    "Index": 426
+  },
+  {
+    "Word": "badhai",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "badhai",
+    "Index": 427
+  },
+  {
+    "Word": "bandar",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "bandar",
+    "Index": 428
+  },
+  {
+    "Word": "bartan",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "bartan",
+    "Index": 429
+  },
+  {
+    "Word": "battak",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "battak",
+    "Index": 430
+  },
+  {
+    "Word": "beghar",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "beghar",
+    "Index": 431
+  },
+  {
+    "Word": "bhabhi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "bhabhi",
+    "Index": 432
+  },
+  {
+    "Word": "bhains",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "bhains",
+    "Index": 433
+  },
+  {
+    "Word": "bhaiya",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "bhaiya",
+    "Index": 434
+  },
+  {
+    "Word": "bharat",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "bharat",
+    "Index": 435
+  },
+  {
+    "Word": "bhindi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "bhindi",
+    "Index": 436
+  },
+  {
+    "Word": "bhutta",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "bhutta",
+    "Index": 437
+  },
+  {
+    "Word": "buddha",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "buddha",
+    "Index": 438
+  },
+  {
+    "Word": "bulbul",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "bulbul",
+    "Index": 439
+  },
+  {
+    "Word": "carrom",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "carrom",
+    "Index": 440
+  },
+  {
+    "Word": "chaaku",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "chaaku",
+    "Index": 441
+  },
+  {
+    "Word": "chaand",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "chaand",
+    "Index": 442
+  },
+  {
+    "Word": "chacha",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "chacha",
+    "Index": 443
+  },
+  {
+    "Word": "chachi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "chachi",
+    "Index": 444
+  },
+  {
+    "Word": "chadar",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "chadar",
+    "Index": 445
+  },
+  {
+    "Word": "chaddi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "chaddi",
+    "Index": 446
+  },
+  {
+    "Word": "chakla",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "chakla",
+    "Index": 447
+  },
+  {
+    "Word": "Chakra",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "Chakra",
+    "Index": 448
+  },
+  {
+    "Word": "chalna",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "chalna",
+    "Index": 449
+  },
+  {
+    "Word": "chawal",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "chawal",
+    "Index": 450
+  },
+  {
+    "Word": "chawal",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "chawal",
+    "Index": 451
+  },
+  {
+    "Word": "cheeni",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "cheeni",
+    "Index": 452
+  },
+  {
+    "Word": "chehra",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "chehra",
+    "Index": 453
+  },
+  {
+    "Word": "chhata",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "chhata",
+    "Index": 454
+  },
+  {
+    "Word": "chhota",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "chhota",
+    "Index": 455
+  },
+  {
+    "Word": "chinta",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "chinta",
+    "Index": 456
+  },
+  {
+    "Word": "chonch",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "chonch",
+    "Index": 457
+  },
+  {
+    "Word": "choodi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "choodi",
+    "Index": 458
+  },
+  {
+    "Word": "chulha",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "chulha",
+    "Index": 459
+  },
+  {
+    "Word": "chumma",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "chumma",
+    "Index": 460
+  },
+  {
+    "Word": "chunni",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "chunni",
+    "Index": 461
+  },
+  {
+    "Word": "chunri",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "chunri",
+    "Index": 462
+  },
+  {
+    "Word": "churan",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "churan",
+    "Index": 463
+  },
+  {
+    "Word": "chuski",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "chuski",
+    "Index": 464
+  },
+  {
+    "Word": "chutki",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "chutki",
+    "Index": 465
+  },
+  {
+    "Word": "Coolie",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "Coolie",
+    "Index": 466
+  },
+  {
+    "Word": "Dangal",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "Dangal",
+    "Index": 467
+  },
+  {
+    "Word": "darpan",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "darpan",
+    "Index": 468
+  },
+  {
+    "Word": "dastak",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "dastak",
+    "Index": 469
+  },
+  {
+    "Word": "daudna",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "daudna",
+    "Index": 470
+  },
+  {
+    "Word": "deemak",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "deemak",
+    "Index": 471
+  },
+  {
+    "Word": "deewar",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "deewar",
+    "Index": 472
+  },
+  {
+    "Word": "dekhna",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "dekhna",
+    "Index": 473
+  },
+  {
+    "Word": "Devdas",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "Devdas",
+    "Index": 474
+  },
+  {
+    "Word": "dhaara",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "dhaara",
+    "Index": 475
+  },
+  {
+    "Word": "dharti",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "dharti",
+    "Index": 476
+  },
+  {
+    "Word": "dheere",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "dheere",
+    "Index": 477
+  },
+  {
+    "Word": "dhokha",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "dhokha",
+    "Index": 478
+  },
+  {
+    "Word": "dhokha",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "dhokha",
+    "Index": 479
+  },
+  {
+    "Word": "dholak",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "dholak",
+    "Index": 480
+  },
+  {
+    "Word": "dilbar",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "dilbar",
+    "Index": 481
+  },
+  {
+    "Word": "dimaag",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "dimaag",
+    "Index": 482
+  },
+  {
+    "Word": "diwali",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "diwali",
+    "Index": 483
+  },
+  {
+    "Word": "dukaan",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "dukaan",
+    "Index": 484
+  },
+  {
+    "Word": "dulhan",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "dulhan",
+    "Index": 485
+  },
+  {
+    "Word": "duniya",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "duniya",
+    "Index": 486
+  },
+  {
+    "Word": "faisla",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "faisla",
+    "Index": 487
+  },
+  {
+    "Word": "farebi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "farebi",
+    "Index": 488
+  },
+  {
+    "Word": "Frooti",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "Frooti",
+    "Index": 489
+  },
+  {
+    "Word": "fus fus",
+    "Hint": "___ ___",
+    "Length": 6,
+    "Translation": "fus fus",
+    "Index": 490
+  },
+  {
+    "Word": "gamcha",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "gamcha",
+    "Index": 491
+  },
+  {
+    "Word": "gardan",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "gardan",
+    "Index": 492
+  },
+  {
+    "Word": "gareeb",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "gareeb",
+    "Index": 493
+  },
+  {
+    "Word": "gareeb",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "gareeb",
+    "Index": 494
+  },
+  {
+    "Word": "ghanti",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "ghanti",
+    "Index": 495
+  },
+  {
+    "Word": "ghosla",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "ghosla",
+    "Index": 496
+  },
+  {
+    "Word": "ghutna",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "ghutna",
+    "Index": 497
+  },
+  {
+    "Word": "girgit",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "girgit",
+    "Index": 498
+  },
+  {
+    "Word": "godaan",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "godaan",
+    "Index": 499
+  },
+  {
+    "Word": "grahak",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "grahak",
+    "Index": 500
+  },
+  {
+    "Word": "grahan",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "grahan",
+    "Index": 501
+  },
+  {
+    "Word": "gudiya",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "gudiya",
+    "Index": 502
+  },
+  {
+    "Word": "gujiya",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "gujiya",
+    "Index": 503
+  },
+  {
+    "Word": "gulaal",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "gulaal",
+    "Index": 504
+  },
+  {
+    "Word": "gulabi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "gulabi",
+    "Index": 505
+  },
+  {
+    "Word": "haathi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "haathi",
+    "Index": 506
+  },
+  {
+    "Word": "halwai",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "halwai",
+    "Index": 507
+  },
+  {
+    "Word": "hawasi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "hawasi",
+    "Index": 508
+  },
+  {
+    "Word": "haweli",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "haweli",
+    "Index": 509
+  },
+  {
+    "Word": "hichki",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "hichki",
+    "Index": 510
+  },
+  {
+    "Word": "jalebi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "jalebi",
+    "Index": 511
+  },
+  {
+    "Word": "jasoos",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "jasoos",
+    "Index": 512
+  },
+  {
+    "Word": "jawani",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "jawani",
+    "Index": 513
+  },
+  {
+    "Word": "jhanda",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "jhanda",
+    "Index": 514
+  },
+  {
+    "Word": "jharna",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "jharna",
+    "Index": 515
+  },
+  {
+    "Word": "jhatka",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "jhatka",
+    "Index": 516
+  },
+  {
+    "Word": "jhopda",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "jhopda",
+    "Index": 517
+  },
+  {
+    "Word": "jhopda",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "jhopda",
+    "Index": 518
+  },
+  {
+    "Word": "jhumar",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "jhumar",
+    "Index": 519
+  },
+  {
+    "Word": "jhumka",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "jhumka",
+    "Index": 520
+  },
+  {
+    "Word": "kaapna",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kaapna",
+    "Index": 521
+  },
+  {
+    "Word": "kachha",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kachha",
+    "Index": 522
+  },
+  {
+    "Word": "kachra",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kachra",
+    "Index": 523
+  },
+  {
+    "Word": "kachua",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kachua",
+    "Index": 524
+  },
+  {
+    "Word": "kalank",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kalank",
+    "Index": 525
+  },
+  {
+    "Word": "kalyug",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kalyug",
+    "Index": 526
+  },
+  {
+    "Word": "kambal",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kambal",
+    "Index": 527
+  },
+  {
+    "Word": "kameez",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kameez",
+    "Index": 528
+  },
+  {
+    "Word": "kamzor",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kamzor",
+    "Index": 529
+  },
+  {
+    "Word": "kanche",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kanche",
+    "Index": 530
+  },
+  {
+    "Word": "kandha",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kandha",
+    "Index": 531
+  },
+  {
+    "Word": "kangan",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kangan",
+    "Index": 532
+  },
+  {
+    "Word": "kanghi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kanghi",
+    "Index": 533
+  },
+  {
+    "Word": "karela",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "karela",
+    "Index": 534
+  },
+  {
+    "Word": "kashti",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kashti",
+    "Index": 535
+  },
+  {
+    "Word": "katori",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "katori",
+    "Index": 536
+  },
+  {
+    "Word": "kavach",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kavach",
+    "Index": 537
+  },
+  {
+    "Word": "kavita",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kavita",
+    "Index": 538
+  },
+  {
+    "Word": "kechua",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kechua",
+    "Index": 539
+  },
+  {
+    "Word": "khamba",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "khamba",
+    "Index": 540
+  },
+  {
+    "Word": "khansi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "khansi",
+    "Index": 541
+  },
+  {
+    "Word": "kheera",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kheera",
+    "Index": 542
+  },
+  {
+    "Word": "kheera",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kheera",
+    "Index": 543
+  },
+  {
+    "Word": "khidki",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "khidki",
+    "Index": 544
+  },
+  {
+    "Word": "khopdi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "khopdi",
+    "Index": 545
+  },
+  {
+    "Word": "khudai",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "khudai",
+    "Index": 546
+  },
+  {
+    "Word": "khujli",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "khujli",
+    "Index": 547
+  },
+  {
+    "Word": "khushi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "khushi",
+    "Index": 548
+  },
+  {
+    "Word": "kitaab",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kitaab",
+    "Index": 549
+  },
+  {
+    "Word": "kshama",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kshama",
+    "Index": 550
+  },
+  {
+    "Word": "kulhad",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "kulhad",
+    "Index": 551
+  },
+  {
+    "Word": "laddoo",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "laddoo",
+    "Index": 552
+  },
+  {
+    "Word": "Lagaan",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "Lagaan",
+    "Index": 553
+  },
+  {
+    "Word": "lagaav",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "lagaav",
+    "Index": 554
+  },
+  {
+    "Word": "lalach",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "lalach",
+    "Index": 555
+  },
+  {
+    "Word": "lalach",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "lalach",
+    "Index": 556
+  },
+  {
+    "Word": "lalchi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "lalchi",
+    "Index": 557
+  },
+  {
+    "Word": "langda",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "langda",
+    "Index": 558
+  },
+  {
+    "Word": "lehsun",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "lehsun",
+    "Index": 559
+  },
+  {
+    "Word": "lifafa",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "lifafa",
+    "Index": 560
+  },
+  {
+    "Word": "machis",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "machis",
+    "Index": 561
+  },
+  {
+    "Word": "madari",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "madari",
+    "Index": 562
+  },
+  {
+    "Word": "majdur",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "majdur",
+    "Index": 563
+  },
+  {
+    "Word": "Makkhi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "Makkhi",
+    "Index": 564
+  },
+  {
+    "Word": "makkhi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "makkhi",
+    "Index": 565
+  },
+  {
+    "Word": "mandap",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "mandap",
+    "Index": 566
+  },
+  {
+    "Word": "mandir",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "mandir",
+    "Index": 567
+  },
+  {
+    "Word": "mangal",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "mangal",
+    "Index": 568
+  },
+  {
+    "Word": "manjan",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "manjan",
+    "Index": 569
+  },
+  {
+    "Word": "manjha",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "manjha",
+    "Index": 570
+  },
+  {
+    "Word": "mareez",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "mareez",
+    "Index": 571
+  },
+  {
+    "Word": "marham",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "marham",
+    "Index": 572
+  },
+  {
+    "Word": "masala",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "masala",
+    "Index": 573
+  },
+  {
+    "Word": "masjid",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "masjid",
+    "Index": 574
+  },
+  {
+    "Word": "mausam",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "mausam",
+    "Index": 575
+  },
+  {
+    "Word": "mehman",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "mehman",
+    "Index": 576
+  },
+  {
+    "Word": "mistri",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "mistri",
+    "Index": 577
+  },
+  {
+    "Word": "mithai",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "mithai",
+    "Index": 578
+  },
+  {
+    "Word": "munafa",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "munafa",
+    "Index": 579
+  },
+  {
+    "Word": "muslim",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "muslim",
+    "Index": 580
+  },
+  {
+    "Word": "nachna",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "nachna",
+    "Index": 581
+  },
+  {
+    "Word": "nahana",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "nahana",
+    "Index": 582
+  },
+  {
+    "Word": "nahana",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "nahana",
+    "Index": 583
+  },
+  {
+    "Word": "nakhre",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "nakhre",
+    "Index": 584
+  },
+  {
+    "Word": "nakhre",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "nakhre",
+    "Index": 585
+  },
+  {
+    "Word": "nakhun",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "nakhun",
+    "Index": 586
+  },
+  {
+    "Word": "naraaz",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "naraaz",
+    "Index": 587
+  },
+  {
+    "Word": "Natraj",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "Natraj",
+    "Index": 588
+  },
+  {
+    "Word": "naukar",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "naukar",
+    "Index": 589
+  },
+  {
+    "Word": "nigaah",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "nigaah",
+    "Index": 590
+  },
+  {
+    "Word": "nighty",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "nighty",
+    "Index": 591
+  },
+  {
+    "Word": "nikaah",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "nikaah",
+    "Index": 592
+  },
+  {
+    "Word": "nuksan",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "nuksan",
+    "Index": 593
+  },
+  {
+    "Word": "padosi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "padosi",
+    "Index": 594
+  },
+  {
+    "Word": "pahiya",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "pahiya",
+    "Index": 595
+  },
+  {
+    "Word": "pakoda",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "pakoda",
+    "Index": 596
+  },
+  {
+    "Word": "pandit",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "pandit",
+    "Index": 597
+  },
+  {
+    "Word": "pankha",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "pankha",
+    "Index": 598
+  },
+  {
+    "Word": "papita",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "papita",
+    "Index": 599
+  },
+  {
+    "Word": "Parle-G",
+    "Hint": "_____-_",
+    "Length": 6,
+    "Translation": "Parle-G",
+    "Index": 600
+  },
+  {
+    "Word": "pasina",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "pasina",
+    "Index": 601
+  },
+  {
+    "Word": "patang",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "patang",
+    "Index": 602
+  },
+  {
+    "Word": "peeche",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "peeche",
+    "Index": 603
+  },
+  {
+    "Word": "phuski",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "phuski",
+    "Index": 604
+  },
+  {
+    "Word": "pranam",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "pranam",
+    "Index": 605
+  },
+  {
+    "Word": "puchhi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "puchhi",
+    "Index": 606
+  },
+  {
+    "Word": "Pushpa",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "Pushpa",
+    "Index": 607
+  },
+  {
+    "Word": "pustak",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "pustak",
+    "Index": 608
+  },
+  {
+    "Word": "roshni",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "roshni",
+    "Index": 609
+  },
+  {
+    "Word": "sahara",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "sahara",
+    "Index": 610
+  },
+  {
+    "Word": "saheli",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "saheli",
+    "Index": 611
+  },
+  {
+    "Word": "sainik",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "sainik",
+    "Index": 612
+  },
+  {
+    "Word": "samosa",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "samosa",
+    "Index": 613
+  },
+  {
+    "Word": "santra",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "santra",
+    "Index": 614
+  },
+  {
+    "Word": "seelan",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "seelan",
+    "Index": 615
+  },
+  {
+    "Word": "shaadi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "shaadi",
+    "Index": 616
+  },
+  {
+    "Word": "shagun",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "shagun",
+    "Index": 617
+  },
+  {
+    "Word": "shakti",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "shakti",
+    "Index": 618
+  },
+  {
+    "Word": "shanka",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "shanka",
+    "Index": 619
+  },
+  {
+    "Word": "sharam",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "sharam",
+    "Index": 620
+  },
+  {
+    "Word": "Sholay",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "Sholay",
+    "Index": 621
+  },
+  {
+    "Word": "shraap",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "shraap",
+    "Index": 622
+  },
+  {
+    "Word": "shraap",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "shraap",
+    "Index": 623
+  },
+  {
+    "Word": "sipahi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "sipahi",
+    "Index": 624
+  },
+  {
+    "Word": "sochna",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "sochna",
+    "Index": 625
+  },
+  {
+    "Word": "sparsh",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "sparsh",
+    "Index": 626
+  },
+  {
+    "Word": "Sultan",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "Sultan",
+    "Index": 627
+  },
+  {
+    "Word": "Suniyo",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "Suniyo",
+    "Index": 628
+  },
+  {
+    "Word": "swagat",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "swagat",
+    "Index": 629
+  },
+  {
+    "Word": "takiya",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "takiya",
+    "Index": 630
+  },
+  {
+    "Word": "takkar",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "takkar",
+    "Index": 631
+  },
+  {
+    "Word": "talaab",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "talaab",
+    "Index": 632
+  },
+  {
+    "Word": "talwar",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "talwar",
+    "Index": 633
+  },
+  {
+    "Word": "tendua",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "tendua",
+    "Index": 634
+  },
+  {
+    "Word": "tezaab",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "tezaab",
+    "Index": 635
+  },
+  {
+    "Word": "Thakur",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "Thakur",
+    "Index": 636
+  },
+  {
+    "Word": "thanda",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "thanda",
+    "Index": 637
+  },
+  {
+    "Word": "thandi",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "thandi",
+    "Index": 638
+  },
+  {
+    "Word": "tharki",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "tharki",
+    "Index": 639
+  },
+  {
+    "Word": "thenga",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "thenga",
+    "Index": 640
+  },
+  {
+    "Word": "thumka",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "thumka",
+    "Index": 641
+  },
+  {
+    "Word": "tip tip",
+    "Hint": "___ ___",
+    "Length": 6,
+    "Translation": "tip tip",
+    "Index": 642
+  },
+  {
+    "Word": "tuktuk",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "tuktuk",
+    "Index": 643
+  },
+  {
+    "Word": "ullaas",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "ullaas",
+    "Index": 644
+  },
+  {
+    "Word": "vakeel",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "vakeel",
+    "Index": 645
+  },
+  {
+    "Word": "vidhwa",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "vidhwa",
+    "Index": 646
+  },
+  {
+    "Word": "vigyan",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "vigyan",
+    "Index": 647
+  },
+  {
+    "Word": "Vim Bar",
+    "Hint": "___ ___",
+    "Length": 6,
+    "Translation": "Vim Bar",
+    "Index": 648
+  },
+  {
+    "Word": "Vishnu",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "Vishnu",
+    "Index": 649
+  },
+  {
+    "Word": "Yamraj",
+    "Hint": "______",
+    "Length": 6,
+    "Translation": "Yamraj",
+    "Index": 650
+  },
+  {
+    "Word": "3 Idiots",
+    "Hint": "_ ______",
+    "Length": 7,
+    "Translation": "3 Idiots",
+    "Index": 651
+  },
+  {
+    "Word": "aarmabh",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "aarmabh",
+    "Index": 652
+  },
+  {
+    "Word": "akhbaar",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "akhbaar",
+    "Index": 653
+  },
+  {
+    "Word": "andhera",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "andhera",
+    "Index": 654
+  },
+  {
+    "Word": "angdayi",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "angdayi",
+    "Index": 655
+  },
+  {
+    "Word": "angutha",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "angutha",
+    "Index": 656
+  },
+  {
+    "Word": "anguthi",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "anguthi",
+    "Index": 657
+  },
+  {
+    "Word": "apraadh",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "apraadh",
+    "Index": 658
+  },
+  {
+    "Word": "baarish",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "baarish",
+    "Index": 659
+  },
+  {
+    "Word": "Badshah",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Badshah",
+    "Index": 660
+  },
+  {
+    "Word": "baingan",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "baingan",
+    "Index": 661
+  },
+  {
+    "Word": "baingni",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "baingni",
+    "Index": 662
+  },
+  {
+    "Word": "baithna",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "baithna",
+    "Index": 663
+  },
+  {
+    "Word": "baniyan",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "baniyan",
+    "Index": 664
+  },
+  {
+    "Word": "bansuri",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "bansuri",
+    "Index": 665
+  },
+  {
+    "Word": "barbaad",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "barbaad",
+    "Index": 666
+  },
+  {
+    "Word": "bhagwan",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "bhagwan",
+    "Index": 667
+  },
+  {
+    "Word": "bhangra",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "bhangra",
+    "Index": 668
+  },
+  {
+    "Word": "Bhediya",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Bhediya",
+    "Index": 669
+  },
+  {
+    "Word": "bhukamp",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "bhukamp",
+    "Index": 670
+  },
+  {
+    "Word": "biryani",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "biryani",
+    "Index": 671
+  },
+  {
+    "Word": "Bisleri",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Bisleri",
+    "Index": 672
+  },
+  {
+    "Word": "Bisleri",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Bisleri",
+    "Index": 673
+  },
+  {
+    "Word": "budhapa",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "budhapa",
+    "Index": 674
+  },
+  {
+    "Word": "chaandi",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "chaandi",
+    "Index": 675
+  },
+  {
+    "Word": "chaandi",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "chaandi",
+    "Index": 676
+  },
+  {
+    "Word": "chakhna",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "chakhna",
+    "Index": 677
+  },
+  {
+    "Word": "chakkar",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "chakkar",
+    "Index": 678
+  },
+  {
+    "Word": "chamcha",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "chamcha",
+    "Index": 679
+  },
+  {
+    "Word": "chappal",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "chappal",
+    "Index": 680
+  },
+  {
+    "Word": "charpai",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "charpai",
+    "Index": 681
+  },
+  {
+    "Word": "chashma",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "chashma",
+    "Index": 682
+  },
+  {
+    "Word": "chashni",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "chashni",
+    "Index": 683
+  },
+  {
+    "Word": "chattan",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "chattan",
+    "Index": 684
+  },
+  {
+    "Word": "chaukor",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "chaukor",
+    "Index": 685
+  },
+  {
+    "Word": "cheenti",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "cheenti",
+    "Index": 686
+  },
+  {
+    "Word": "chhanni",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "chhanni",
+    "Index": 687
+  },
+  {
+    "Word": "chhapri",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "chhapri",
+    "Index": 688
+  },
+  {
+    "Word": "chidiya",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "chidiya",
+    "Index": 689
+  },
+  {
+    "Word": "chillar",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "chillar",
+    "Index": 690
+  },
+  {
+    "Word": "chiraag",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "chiraag",
+    "Index": 691
+  },
+  {
+    "Word": "chudail",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "chudail",
+    "Index": 692
+  },
+  {
+    "Word": "chui mui",
+    "Hint": "____ ___",
+    "Length": 7,
+    "Translation": "chui mui",
+    "Index": 693
+  },
+  {
+    "Word": "chumbak",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "chumbak",
+    "Index": 694
+  },
+  {
+    "Word": "Circuit",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Circuit",
+    "Index": 695
+  },
+  {
+    "Word": "cricket",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "cricket",
+    "Index": 696
+  },
+  {
+    "Word": "Dabbang",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Dabbang",
+    "Index": 697
+  },
+  {
+    "Word": "dandiya",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "dandiya",
+    "Index": 698
+  },
+  {
+    "Word": "darwaza",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "darwaza",
+    "Index": 699
+  },
+  {
+    "Word": "dhadkan",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "dhadkan",
+    "Index": 700
+  },
+  {
+    "Word": "dhakkan",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "dhakkan",
+    "Index": 701
+  },
+  {
+    "Word": "dhamaka",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "dhamaka",
+    "Index": 702
+  },
+  {
+    "Word": "dhaniya",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "dhaniya",
+    "Index": 703
+  },
+  {
+    "Word": "dhanush",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "dhanush",
+    "Index": 704
+  },
+  {
+    "Word": "dupatta",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "dupatta",
+    "Index": 705
+  },
+  {
+    "Word": "dushman",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "dushman",
+    "Index": 706
+  },
+  {
+    "Word": "elaichi",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "elaichi",
+    "Index": 707
+  },
+  {
+    "Word": "galeech",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "galeech",
+    "Index": 708
+  },
+  {
+    "Word": "Ganesha",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Ganesha",
+    "Index": 709
+  },
+  {
+    "Word": "Ghajini",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Ghajini",
+    "Index": 710
+  },
+  {
+    "Word": "ghamand",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "ghamand",
+    "Index": 711
+  },
+  {
+    "Word": "Glucon-D",
+    "Hint": "______-_",
+    "Length": 7,
+    "Translation": "Glucon-D",
+    "Index": 712
+  },
+  {
+    "Word": "gubbara",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "gubbara",
+    "Index": 713
+  },
+  {
+    "Word": "gudgudi",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "gudgudi",
+    "Index": 714
+  },
+  {
+    "Word": "gunguna",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "gunguna",
+    "Index": 715
+  },
+  {
+    "Word": "Hanuman",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Hanuman",
+    "Index": 716
+  },
+  {
+    "Word": "hatheli",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "hatheli",
+    "Index": 717
+  },
+  {
+    "Word": "hatheli",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "hatheli",
+    "Index": 718
+  },
+  {
+    "Word": "hathoda",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "hathoda",
+    "Index": 719
+  },
+  {
+    "Word": "ice pice",
+    "Hint": "___ ____",
+    "Length": 7,
+    "Translation": "ice pice",
+    "Index": 720
+  },
+  {
+    "Word": "jadugar",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "jadugar",
+    "Index": 721
+  },
+  {
+    "Word": "jaikara",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "jaikara",
+    "Index": 722
+  },
+  {
+    "Word": "jhilmil",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "jhilmil",
+    "Index": 723
+  },
+  {
+    "Word": "jhingur",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "jhingur",
+    "Index": 724
+  },
+  {
+    "Word": "kabutar",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "kabutar",
+    "Index": 725
+  },
+  {
+    "Word": "kainchi",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "kainchi",
+    "Index": 726
+  },
+  {
+    "Word": "kalmuha",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "kalmuha",
+    "Index": 727
+  },
+  {
+    "Word": "khamosh",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "khamosh",
+    "Index": 728
+  },
+  {
+    "Word": "kharash",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "kharash",
+    "Index": 729
+  },
+  {
+    "Word": "khichdi",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "khichdi",
+    "Index": 730
+  },
+  {
+    "Word": "khilona",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "khilona",
+    "Index": 731
+  },
+  {
+    "Word": "Kirmada",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Kirmada",
+    "Index": 732
+  },
+  {
+    "Word": "Krishna",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Krishna",
+    "Index": 733
+  },
+  {
+    "Word": "kshitij",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "kshitij",
+    "Index": 734
+  },
+  {
+    "Word": "kulhadi",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "kulhadi",
+    "Index": 735
+  },
+  {
+    "Word": "Kurkure",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Kurkure",
+    "Index": 736
+  },
+  {
+    "Word": "laapata",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "laapata",
+    "Index": 737
+  },
+  {
+    "Word": "lafanga",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "lafanga",
+    "Index": 738
+  },
+  {
+    "Word": "Lakshmi",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Lakshmi",
+    "Index": 739
+  },
+  {
+    "Word": "lakshya",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "lakshya",
+    "Index": 740
+  },
+  {
+    "Word": "lehenga",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "lehenga",
+    "Index": 741
+  },
+  {
+    "Word": "machhar",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "machhar",
+    "Index": 742
+  },
+  {
+    "Word": "machhli",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "machhli",
+    "Index": 743
+  },
+  {
+    "Word": "majboor",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "majboor",
+    "Index": 744
+  },
+  {
+    "Word": "makkhan",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "makkhan",
+    "Index": 745
+  },
+  {
+    "Word": "matdaan",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "matdaan",
+    "Index": 746
+  },
+  {
+    "Word": "maulana",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "maulana",
+    "Index": 747
+  },
+  {
+    "Word": "mehendi",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "mehendi",
+    "Index": 748
+  },
+  {
+    "Word": "mendhak",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "mendhak",
+    "Index": 749
+  },
+  {
+    "Word": "Miranda",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Miranda",
+    "Index": 750
+  },
+  {
+    "Word": "Mr. India",
+    "Hint": "__. _____",
+    "Length": 7,
+    "Translation": "Mr. India",
+    "Index": 751
+  },
+  {
+    "Word": "MS Dhoni",
+    "Hint": "__ _____",
+    "Length": 7,
+    "Translation": "MS Dhoni",
+    "Index": 752
+  },
+  {
+    "Word": "mubarak",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "mubarak",
+    "Index": 753
+  },
+  {
+    "Word": "Mythpat",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Mythpat",
+    "Index": 754
+  },
+  {
+    "Word": "namkeen",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "namkeen",
+    "Index": 755
+  },
+  {
+    "Word": "narangi",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "narangi",
+    "Index": 756
+  },
+  {
+    "Word": "narbali",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "narbali",
+    "Index": 757
+  },
+  {
+    "Word": "nariyal",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "nariyal",
+    "Index": 758
+  },
+  {
+    "Word": "naukari",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "naukari",
+    "Index": 759
+  },
+  {
+    "Word": "nishulk",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "nishulk",
+    "Index": 760
+  },
+  {
+    "Word": "Padosan",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Padosan",
+    "Index": 761
+  },
+  {
+    "Word": "pardada",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "pardada",
+    "Index": 762
+  },
+  {
+    "Word": "Parvati",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Parvati",
+    "Index": 763
+  },
+  {
+    "Word": "parwana",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "parwana",
+    "Index": 764
+  },
+  {
+    "Word": "patakha",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "patakha",
+    "Index": 765
+  },
+  {
+    "Word": "patakha",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "patakha",
+    "Index": 766
+  },
+  {
+    "Word": "patloon",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "patloon",
+    "Index": 767
+  },
+  {
+    "Word": "pavitra",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "pavitra",
+    "Index": 768
+  },
+  {
+    "Word": "pechkas",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "pechkas",
+    "Index": 769
+  },
+  {
+    "Word": "phenkna",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "phenkna",
+    "Index": 770
+  },
+  {
+    "Word": "Poppins",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Poppins",
+    "Index": 771
+  },
+  {
+    "Word": "prasann",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "prasann",
+    "Index": 772
+  },
+  {
+    "Word": "premika",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "premika",
+    "Index": 773
+  },
+  {
+    "Word": "prithvi",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "prithvi",
+    "Index": 774
+  },
+  {
+    "Word": "raftaar",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "raftaar",
+    "Index": 775
+  },
+  {
+    "Word": "rajniti",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "rajniti",
+    "Index": 776
+  },
+  {
+    "Word": "rakshas",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "rakshas",
+    "Index": 777
+  },
+  {
+    "Word": "Ramayan",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Ramayan",
+    "Index": 778
+  },
+  {
+    "Word": "rangoli",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "rangoli",
+    "Index": 779
+  },
+  {
+    "Word": "rimjhim",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "rimjhim",
+    "Index": 780
+  },
+  {
+    "Word": "rishvat",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "rishvat",
+    "Index": 781
+  },
+  {
+    "Word": "sandesh",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "sandesh",
+    "Index": 782
+  },
+  {
+    "Word": "sandook",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "sandook",
+    "Index": 783
+  },
+  {
+    "Word": "sannata",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "sannata",
+    "Index": 784
+  },
+  {
+    "Word": "sanyasi",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "sanyasi",
+    "Index": 785
+  },
+  {
+    "Word": "shaitan",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "shaitan",
+    "Index": 786
+  },
+  {
+    "Word": "shastra",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "shastra",
+    "Index": 787
+  },
+  {
+    "Word": "sheesha",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "sheesha",
+    "Index": 788
+  },
+  {
+    "Word": "shehnai",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "shehnai",
+    "Index": 789
+  },
+  {
+    "Word": "shikaar",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "shikaar",
+    "Index": 790
+  },
+  {
+    "Word": "Silsila",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Silsila",
+    "Index": 791
+  },
+  {
+    "Word": "sindoor",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "sindoor",
+    "Index": 792
+  },
+  {
+    "Word": "Singham",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Singham",
+    "Index": 793
+  },
+  {
+    "Word": "sughand",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "sughand",
+    "Index": 794
+  },
+  {
+    "Word": "sunghna",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "sunghna",
+    "Index": 795
+  },
+  {
+    "Word": "tairaak",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "tairaak",
+    "Index": 796
+  },
+  {
+    "Word": "tamasha",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "tamasha",
+    "Index": 797
+  },
+  {
+    "Word": "tamatar",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "tamatar",
+    "Index": 798
+  },
+  {
+    "Word": "tantrik",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "tantrik",
+    "Index": 799
+  },
+  {
+    "Word": "tasveer",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "tasveer",
+    "Index": 800
+  },
+  {
+    "Word": "tauliya",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "tauliya",
+    "Index": 801
+  },
+  {
+    "Word": "thappad",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "thappad",
+    "Index": 802
+  },
+  {
+    "Word": "Trishul",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Trishul",
+    "Index": 803
+  },
+  {
+    "Word": "varmala",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "varmala",
+    "Index": 804
+  },
+  {
+    "Word": "viklang",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "viklang",
+    "Index": 805
+  },
+  {
+    "Word": "vishram",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "vishram",
+    "Index": 806
+  },
+  {
+    "Word": "vyapaar",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "vyapaar",
+    "Index": 807
+  },
+  {
+    "Word": "Zanjeer",
+    "Hint": "_______",
+    "Length": 7,
+    "Translation": "Zanjeer",
+    "Index": 808
+  },
+  {
+    "Word": "aakraman",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "aakraman",
+    "Index": 809
+  },
+  {
+    "Word": "aam panna",
+    "Hint": "___ _____",
+    "Length": 8,
+    "Translation": "aam panna",
+    "Index": 810
+  },
+  {
+    "Word": "aandolan",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "aandolan",
+    "Index": 811
+  },
+  {
+    "Word": "Aashiqui",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "Aashiqui",
+    "Index": 812
+  },
+  {
+    "Word": "abhineta",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "abhineta",
+    "Index": 813
+  },
+  {
+    "Word": "akalmand",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "akalmand",
+    "Index": 814
+  },
+  {
+    "Word": "alp viram",
+    "Hint": "___ _____",
+    "Length": 8,
+    "Translation": "alp viram",
+    "Index": 815
+  },
+  {
+    "Word": "Amir Khan",
+    "Hint": "____ ____",
+    "Length": 8,
+    "Translation": "Amir Khan",
+    "Index": 816
+  },
+  {
+    "Word": "anarkali",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "anarkali",
+    "Index": 817
+  },
+  {
+    "Word": "anda roll",
+    "Hint": "____ ____",
+    "Length": 8,
+    "Translation": "anda roll",
+    "Index": 818
+  },
+  {
+    "Word": "Appy Fizz",
+    "Hint": "____ ____",
+    "Length": 8,
+    "Translation": "Appy Fizz",
+    "Index": 819
+  },
+  {
+    "Word": "asambhav",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "asambhav",
+    "Index": 820
+  },
+  {
+    "Word": "aspataal",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "aspataal",
+    "Index": 821
+  },
+  {
+    "Word": "Bahubali",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "Bahubali",
+    "Index": 822
+  },
+  {
+    "Word": "balidaan",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "balidaan",
+    "Index": 823
+  },
+  {
+    "Word": "band baja",
+    "Hint": "____ ____",
+    "Length": 8,
+    "Translation": "band baja",
+    "Index": 824
+  },
+  {
+    "Word": "berozgar",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "berozgar",
+    "Index": 825
+  },
+  {
+    "Word": "bhandara",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "bhandara",
+    "Index": 826
+  },
+  {
+    "Word": "bhikhari",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "bhikhari",
+    "Index": 827
+  },
+  {
+    "Word": "bhuchaal",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "bhuchaal",
+    "Index": 828
+  },
+  {
+    "Word": "brahmand",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "brahmand",
+    "Index": 829
+  },
+  {
+    "Word": "chaiwala",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "chaiwala",
+    "Index": 830
+  },
+  {
+    "Word": "chammach",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "chammach",
+    "Index": 831
+  },
+  {
+    "Word": "chaprasi",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "chaprasi",
+    "Index": 832
+  },
+  {
+    "Word": "chatpata",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "chatpata",
+    "Index": 833
+  },
+  {
+    "Word": "chetavni",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "chetavni",
+    "Index": 834
+  },
+  {
+    "Word": "chidhana",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "chidhana",
+    "Index": 835
+  },
+  {
+    "Word": "chip chip",
+    "Hint": "____ ____",
+    "Length": 8,
+    "Translation": "chip chip",
+    "Index": 836
+  },
+  {
+    "Word": "chipkali",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "chipkali",
+    "Index": 837
+  },
+  {
+    "Word": "dalchini",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "dalchini",
+    "Index": 838
+  },
+  {
+    "Word": "desi daru",
+    "Hint": "____ ____",
+    "Length": 8,
+    "Translation": "desi daru",
+    "Index": 839
+  },
+  {
+    "Word": "dhishoom",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "dhishoom",
+    "Index": 840
+  },
+  {
+    "Word": "Doraemon",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "Doraemon",
+    "Index": 841
+  },
+  {
+    "Word": "dussehra",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "dussehra",
+    "Index": 842
+  },
+  {
+    "Word": "farishta",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "farishta",
+    "Index": 843
+  },
+  {
+    "Word": "fuljhadi",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "fuljhadi",
+    "Index": 844
+  },
+  {
+    "Word": "ghunghat",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "ghunghat",
+    "Index": 845
+  },
+  {
+    "Word": "gol gappe",
+    "Hint": "___ _____",
+    "Length": 8,
+    "Translation": "gol gappe",
+    "Index": 846
+  },
+  {
+    "Word": "Gopi Bahu",
+    "Hint": "____ ____",
+    "Length": 8,
+    "Translation": "Gopi Bahu",
+    "Index": 847
+  },
+  {
+    "Word": "humsafar",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "humsafar",
+    "Index": 848
+  },
+  {
+    "Word": "Jab We Met",
+    "Hint": "___ __ ___",
+    "Length": 8,
+    "Translation": "Jab We Met",
+    "Index": 849
+  },
+  {
+    "Word": "jaljeera",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "jaljeera",
+    "Index": 850
+  },
+  {
+    "Word": "Jethalal",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "Jethalal",
+    "Index": 851
+  },
+  {
+    "Word": "jyotishi",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "jyotishi",
+    "Index": 852
+  },
+  {
+    "Word": "jyotishi",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "jyotishi",
+    "Index": 853
+  },
+  {
+    "Word": "kaamwali",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "kaamwali",
+    "Index": 854
+  },
+  {
+    "Word": "kala jadu",
+    "Hint": "____ ____",
+    "Length": 8,
+    "Translation": "kala jadu",
+    "Index": 855
+  },
+  {
+    "Word": "kanyadan",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "kanyadan",
+    "Index": 856
+  },
+  {
+    "Word": "khargosh",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "khargosh",
+    "Index": 857
+  },
+  {
+    "Word": "khushboo",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "khushboo",
+    "Index": 858
+  },
+  {
+    "Word": "kishmish",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "kishmish",
+    "Index": 859
+  },
+  {
+    "Word": "kohinoor",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "kohinoor",
+    "Index": 860
+  },
+  {
+    "Word": "kukdukoo",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "kukdukoo",
+    "Index": 861
+  },
+  {
+    "Word": "kuposhan",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "kuposhan",
+    "Index": 862
+  },
+  {
+    "Word": "Laal Kila",
+    "Hint": "____ ____",
+    "Length": 8,
+    "Translation": "Laal Kila",
+    "Index": 863
+  },
+  {
+    "Word": "lal mirch",
+    "Hint": "___ _____",
+    "Length": 8,
+    "Translation": "lal mirch",
+    "Index": 864
+  },
+  {
+    "Word": "maa kasam",
+    "Hint": "___ _____",
+    "Length": 8,
+    "Translation": "maa kasam",
+    "Index": 865
+  },
+  {
+    "Word": "mandrana",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "mandrana",
+    "Index": 866
+  },
+  {
+    "Word": "mastishk",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "mastishk",
+    "Index": 867
+  },
+  {
+    "Word": "maya jaal",
+    "Hint": "____ ____",
+    "Length": 8,
+    "Translation": "maya jaal",
+    "Index": 868
+  },
+  {
+    "Word": "mombatti",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "mombatti",
+    "Index": 869
+  },
+  {
+    "Word": "morpankh",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "morpankh",
+    "Index": 870
+  },
+  {
+    "Word": "mulakaat",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "mulakaat",
+    "Index": 871
+  },
+  {
+    "Word": "mungfali",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "mungfali",
+    "Index": 872
+  },
+  {
+    "Word": "naagmani",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "naagmani",
+    "Index": 873
+  },
+  {
+    "Word": "nautanki",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "nautanki",
+    "Index": 874
+  },
+  {
+    "Word": "navratri",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "navratri",
+    "Index": 875
+  },
+  {
+    "Word": "nichodna",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "nichodna",
+    "Index": 876
+  },
+  {
+    "Word": "paanwala",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "paanwala",
+    "Index": 877
+  },
+  {
+    "Word": "pani puri",
+    "Hint": "____ ____",
+    "Length": 8,
+    "Translation": "pani puri",
+    "Index": 878
+  },
+  {
+    "Word": "parmatma",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "parmatma",
+    "Index": 879
+  },
+  {
+    "Word": "phulkari",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "phulkari",
+    "Index": 880
+  },
+  {
+    "Word": "phus phus",
+    "Hint": "____ ____",
+    "Length": 8,
+    "Translation": "phus phus",
+    "Index": 881
+  },
+  {
+    "Word": "pichkari",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "pichkari",
+    "Index": 882
+  },
+  {
+    "Word": "prakriti",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "prakriti",
+    "Index": 883
+  },
+  {
+    "Word": "prasiddh",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "prasiddh",
+    "Index": 884
+  },
+  {
+    "Word": "rajgaddi",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "rajgaddi",
+    "Index": 885
+  },
+  {
+    "Word": "rajkumar",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "rajkumar",
+    "Index": 886
+  },
+  {
+    "Word": "rasgulla",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "rasgulla",
+    "Index": 887
+  },
+  {
+    "Word": "rasmalai",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "rasmalai",
+    "Index": 888
+  },
+  {
+    "Word": "Rockstar",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "Rockstar",
+    "Index": 889
+  },
+  {
+    "Word": "Roll No. 21",
+    "Hint": "____ __. __",
+    "Length": 8,
+    "Translation": "Roll No. 21",
+    "Index": 890
+  },
+  {
+    "Word": "rooh afza",
+    "Hint": "____ ____",
+    "Length": 8,
+    "Translation": "rooh afza",
+    "Index": 891
+  },
+  {
+    "Word": "samarpan",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "samarpan",
+    "Index": 892
+  },
+  {
+    "Word": "sambandh",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "sambandh",
+    "Index": 893
+  },
+  {
+    "Word": "samundra",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "samundra",
+    "Index": 894
+  },
+  {
+    "Word": "santulan",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "santulan",
+    "Index": 895
+  },
+  {
+    "Word": "satrangi",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "satrangi",
+    "Index": 896
+  },
+  {
+    "Word": "sherwani",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "sherwani",
+    "Index": 897
+  },
+  {
+    "Word": "shikanji",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "shikanji",
+    "Index": 898
+  },
+  {
+    "Word": "shikshak",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "shikshak",
+    "Index": 899
+  },
+  {
+    "Word": "Shin Chan",
+    "Hint": "____ ____",
+    "Length": 8,
+    "Translation": "Shin Chan",
+    "Index": 900
+  },
+  {
+    "Word": "suhagrat",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "suhagrat",
+    "Index": 901
+  },
+  {
+    "Word": "tataiyaa",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "tataiyaa",
+    "Index": 902
+  },
+  {
+    "Word": "tej patta",
+    "Hint": "___ _____",
+    "Length": 8,
+    "Translation": "tej patta",
+    "Index": 903
+  },
+  {
+    "Word": "Tere Naam",
+    "Hint": "____ ____",
+    "Length": 8,
+    "Translation": "Tere Naam",
+    "Index": 904
+  },
+  {
+    "Word": "thak thak",
+    "Hint": "____ ____",
+    "Length": 8,
+    "Translation": "thak thak",
+    "Index": 905
+  },
+  {
+    "Word": "thakawat",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "thakawat",
+    "Index": 906
+  },
+  {
+    "Word": "ubla anda",
+    "Hint": "____ ____",
+    "Length": 8,
+    "Translation": "ubla anda",
+    "Index": 907
+  },
+  {
+    "Word": "ulka pind",
+    "Hint": "____ ____",
+    "Length": 8,
+    "Translation": "ulka pind",
+    "Index": 908
+  },
+  {
+    "Word": "vigyapan",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "vigyapan",
+    "Index": 909
+  },
+  {
+    "Word": "vishphot",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "vishphot",
+    "Index": 910
+  },
+  {
+    "Word": "zamindar",
+    "Hint": "________",
+    "Length": 8,
+    "Translation": "zamindar",
+    "Index": 911
+  },
+  {
+    "Word": "aakarshan",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "aakarshan",
+    "Index": 912
+  },
+  {
+    "Word": "achambhit",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "achambhit",
+    "Index": 913
+  },
+  {
+    "Word": "agarbatti",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "agarbatti",
+    "Index": 914
+  },
+  {
+    "Word": "Agneepath",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "Agneepath",
+    "Index": 915
+  },
+  {
+    "Word": "Ajay Devgn",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "Ajay Devgn",
+    "Index": 916
+  },
+  {
+    "Word": "akash vani",
+    "Hint": "_____ ____",
+    "Length": 9,
+    "Translation": "akash vani",
+    "Index": 917
+  },
+  {
+    "Word": "Andhadhun",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "Andhadhun",
+    "Index": 918
+  },
+  {
+    "Word": "antariksh",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "antariksh",
+    "Index": 919
+  },
+  {
+    "Word": "ardh viram",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "ardh viram",
+    "Index": 920
+  },
+  {
+    "Word": "baat cheet",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "baat cheet",
+    "Index": 921
+  },
+  {
+    "Word": "bail gaadi",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "bail gaadi",
+    "Index": 922
+  },
+  {
+    "Word": "baraf pani",
+    "Hint": "_____ ____",
+    "Length": 9,
+    "Translation": "baraf pani",
+    "Index": 923
+  },
+  {
+    "Word": "BB Ki Vines",
+    "Hint": "__ __ _____",
+    "Length": 9,
+    "Translation": "BB Ki Vines",
+    "Index": 924
+  },
+  {
+    "Word": "bhaag daud",
+    "Hint": "_____ ____",
+    "Length": 9,
+    "Translation": "bhaag daud",
+    "Index": 925
+  },
+  {
+    "Word": "bhaichara",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "bhaichara",
+    "Index": 926
+  },
+  {
+    "Word": "bhed chaal",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "bhed chaal",
+    "Index": 927
+  },
+  {
+    "Word": "buri nazar",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "buri nazar",
+    "Index": 928
+  },
+  {
+    "Word": "chai patti",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "chai patti",
+    "Index": 929
+  },
+  {
+    "Word": "chamgadad",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "chamgadad",
+    "Index": 930
+  },
+  {
+    "Word": "Charminar",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "Charminar",
+    "Index": 931
+  },
+  {
+    "Word": "chatkaare",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "chatkaare",
+    "Index": 932
+  },
+  {
+    "Word": "chipchipa",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "chipchipa",
+    "Index": 933
+  },
+  {
+    "Word": "chukandar",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "chukandar",
+    "Index": 934
+  },
+  {
+    "Word": "cream roll",
+    "Hint": "_____ ____",
+    "Length": 9,
+    "Translation": "cream roll",
+    "Index": 935
+  },
+  {
+    "Word": "dal chawal",
+    "Hint": "___ ______",
+    "Length": 9,
+    "Translation": "dal chawal",
+    "Index": 936
+  },
+  {
+    "Word": "Dermi Cool",
+    "Hint": "_____ ____",
+    "Length": 9,
+    "Translation": "Dermi Cool",
+    "Index": 937
+  },
+  {
+    "Word": "dhindhora",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "dhindhora",
+    "Index": 938
+  },
+  {
+    "Word": "dil-e-nadan",
+    "Hint": "___-_-_____",
+    "Length": 9,
+    "Translation": "dil-e-nadan",
+    "Index": 939
+  },
+  {
+    "Word": "doodhwala",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "doodhwala",
+    "Index": 940
+  },
+  {
+    "Word": "Ek Villain",
+    "Hint": "__ _______",
+    "Length": 9,
+    "Translation": "Ek Villain",
+    "Index": 941
+  },
+  {
+    "Word": "garbhvati",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "garbhvati",
+    "Index": 942
+  },
+  {
+    "Word": "ghabrahat",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "ghabrahat",
+    "Index": 943
+  },
+  {
+    "Word": "ghar jamai",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "ghar jamai",
+    "Index": 944
+  },
+  {
+    "Word": "god bharai",
+    "Hint": "___ ______",
+    "Length": 9,
+    "Translation": "god bharai",
+    "Index": 945
+  },
+  {
+    "Word": "hari mirch",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "hari mirch",
+    "Index": 946
+  },
+  {
+    "Word": "hast rekha",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "hast rekha",
+    "Index": 947
+  },
+  {
+    "Word": "Hawa Mahal",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "Hawa Mahal",
+    "Index": 948
+  },
+  {
+    "Word": "Hera Pheri",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "Hera Pheri",
+    "Index": 949
+  },
+  {
+    "Word": "hindustan",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "hindustan",
+    "Index": 950
+  },
+  {
+    "Word": "humshakal",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "humshakal",
+    "Index": 951
+  },
+  {
+    "Word": "jal lijiye",
+    "Hint": "___ ______",
+    "Length": 9,
+    "Translation": "jal lijiye",
+    "Index": 952
+  },
+  {
+    "Word": "jhunjhuna",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "jhunjhuna",
+    "Index": 953
+  },
+  {
+    "Word": "Kachha Aam",
+    "Hint": "______ ___",
+    "Length": 9,
+    "Translation": "Kachha Aam",
+    "Index": 954
+  },
+  {
+    "Word": "kaddukass",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "kaddukass",
+    "Index": 955
+  },
+  {
+    "Word": "kaju katli",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "kaju katli",
+    "Index": 956
+  },
+  {
+    "Word": "kala paani",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "kala paani",
+    "Index": 957
+  },
+  {
+    "Word": "karam jala",
+    "Hint": "_____ ____",
+    "Length": 9,
+    "Translation": "karam jala",
+    "Index": 958
+  },
+  {
+    "Word": "kathputli",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "kathputli",
+    "Index": 959
+  },
+  {
+    "Word": "kaviyitri",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "kaviyitri",
+    "Index": 960
+  },
+  {
+    "Word": "khud kushi",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "khud kushi",
+    "Index": 961
+  },
+  {
+    "Word": "Kokila Ben",
+    "Hint": "______ ___",
+    "Length": 9,
+    "Translation": "Kokila Ben",
+    "Index": 962
+  },
+  {
+    "Word": "kumbh mela",
+    "Hint": "_____ ____",
+    "Length": 9,
+    "Translation": "kumbh mela",
+    "Index": 963
+  },
+  {
+    "Word": "lakadhara",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "lakadhara",
+    "Index": 964
+  },
+  {
+    "Word": "langda aam",
+    "Hint": "______ ___",
+    "Length": 9,
+    "Translation": "langda aam",
+    "Index": 965
+  },
+  {
+    "Word": "Majnu Bhai",
+    "Hint": "_____ ____",
+    "Length": 9,
+    "Translation": "Majnu Bhai",
+    "Index": 966
+  },
+  {
+    "Word": "man pasand",
+    "Hint": "___ ______",
+    "Length": 9,
+    "Translation": "man pasand",
+    "Index": 967
+  },
+  {
+    "Word": "Mango Bite",
+    "Hint": "_____ ____",
+    "Length": 9,
+    "Translation": "Mango Bite",
+    "Index": 968
+  },
+  {
+    "Word": "Manjulika",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "Manjulika",
+    "Index": 969
+  },
+  {
+    "Word": "manpasand",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "manpasand",
+    "Index": 970
+  },
+  {
+    "Word": "mansik rog",
+    "Hint": "______ ___",
+    "Length": 9,
+    "Translation": "mansik rog",
+    "Index": 971
+  },
+  {
+    "Word": "mast maula",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "mast maula",
+    "Index": 972
+  },
+  {
+    "Word": "motichoor",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "motichoor",
+    "Index": 973
+  },
+  {
+    "Word": "Motu Patlu",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "Motu Patlu",
+    "Index": 974
+  },
+  {
+    "Word": "mrignaini",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "mrignaini",
+    "Index": 975
+  },
+  {
+    "Word": "nimbu pani",
+    "Hint": "_____ ____",
+    "Length": 9,
+    "Translation": "nimbu pani",
+    "Index": 976
+  },
+  {
+    "Word": "pair bhari",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "pair bhari",
+    "Index": 977
+  },
+  {
+    "Word": "pair dhona",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "pair dhona",
+    "Index": 978
+  },
+  {
+    "Word": "palang tod",
+    "Hint": "______ ___",
+    "Length": 9,
+    "Translation": "palang tod",
+    "Index": 979
+  },
+  {
+    "Word": "Patanjali",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "Patanjali",
+    "Index": 980
+  },
+  {
+    "Word": "patrakaar",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "patrakaar",
+    "Index": 981
+  },
+  {
+    "Word": "prarthana",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "prarthana",
+    "Index": 982
+  },
+  {
+    "Word": "Prem Chand",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "Prem Chand",
+    "Index": 983
+  },
+  {
+    "Word": "prem patra",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "prem patra",
+    "Index": 984
+  },
+  {
+    "Word": "rajkumari",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "rajkumari",
+    "Index": 985
+  },
+  {
+    "Word": "registaan",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "registaan",
+    "Index": 986
+  },
+  {
+    "Word": "rona dhona",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "rona dhona",
+    "Index": 987
+  },
+  {
+    "Word": "sabjiwala",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "sabjiwala",
+    "Index": 988
+  },
+  {
+    "Word": "Saraswati",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "Saraswati",
+    "Index": 989
+  },
+  {
+    "Word": "Shaktiman",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "Shaktiman",
+    "Index": 990
+  },
+  {
+    "Word": "shringaar",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "shringaar",
+    "Index": 991
+  },
+  {
+    "Word": "shukraanu",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "shukraanu",
+    "Index": 992
+  },
+  {
+    "Word": "singhasan",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "singhasan",
+    "Index": 993
+  },
+  {
+    "Word": "soan papdi",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "soan papdi",
+    "Index": 994
+  },
+  {
+    "Word": "subhratri",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "subhratri",
+    "Index": 995
+  },
+  {
+    "Word": "sukhe hoth",
+    "Hint": "_____ ____",
+    "Length": 9,
+    "Translation": "sukhe hoth",
+    "Index": 996
+  },
+  {
+    "Word": "Sunny Deol",
+    "Hint": "_____ ____",
+    "Length": 9,
+    "Translation": "Sunny Deol",
+    "Index": 997
+  },
+  {
+    "Word": "suprabhat",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "suprabhat",
+    "Index": 998
+  },
+  {
+    "Word": "Surf Excel",
+    "Hint": "____ _____",
+    "Length": 9,
+    "Translation": "Surf Excel",
+    "Index": 999
+  },
+  {
+    "Word": "surpnakha",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "surpnakha",
+    "Index": 1000
+  },
+  {
+    "Word": "thithurna",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "thithurna",
+    "Index": 1001
+  },
+  {
+    "Word": "Umrao Jaan",
+    "Hint": "_____ ____",
+    "Length": 9,
+    "Translation": "Umrao Jaan",
+    "Index": 1002
+  },
+  {
+    "Word": "vaigyanik",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "vaigyanik",
+    "Index": 1003
+  },
+  {
+    "Word": "vanaspati",
+    "Hint": "_________",
+    "Length": 9,
+    "Translation": "vanaspati",
+    "Index": 1004
+  },
+  {
+    "Word": "aag baboola",
+    "Hint": "___ _______",
+    "Length": 10,
+    "Translation": "aag baboola",
+    "Index": 1005
+  },
+  {
+    "Word": "akash ganga",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "akash ganga",
+    "Index": 1006
+  },
+  {
+    "Word": "anda bhurji",
+    "Hint": "____ ______",
+    "Length": 10,
+    "Translation": "anda bhurji",
+    "Index": 1007
+  },
+  {
+    "Word": "antakshari",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "antakshari",
+    "Index": 1008
+  },
+  {
+    "Word": "ashthbhuja",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "ashthbhuja",
+    "Index": 1009
+  },
+  {
+    "Word": "Baba Ramdev",
+    "Hint": "____ ______",
+    "Length": 10,
+    "Translation": "Baba Ramdev",
+    "Index": 1010
+  },
+  {
+    "Word": "bachhadani",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "bachhadani",
+    "Index": 1011
+  },
+  {
+    "Word": "Bappi Lehri",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "Bappi Lehri",
+    "Index": 1012
+  },
+  {
+    "Word": "Beer Biceps",
+    "Hint": "____ ______",
+    "Length": 10,
+    "Translation": "Beer Biceps",
+    "Index": 1013
+  },
+  {
+    "Word": "bharat mata",
+    "Hint": "______ ____",
+    "Length": 10,
+    "Translation": "bharat mata",
+    "Index": 1014
+  },
+  {
+    "Word": "bhauchakka",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "bhauchakka",
+    "Index": 1015
+  },
+  {
+    "Word": "bhigi billi",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "bhigi billi",
+    "Index": 1016
+  },
+  {
+    "Word": "brahmastra",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "brahmastra",
+    "Index": 1017
+  },
+  {
+    "Word": "chakravyuh",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "chakravyuh",
+    "Index": 1018
+  },
+  {
+    "Word": "chamatkaar",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "chamatkaar",
+    "Index": 1019
+  },
+  {
+    "Word": "chhan chhan",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "chhan chhan",
+    "Index": 1020
+  },
+  {
+    "Word": "chhuk chhuk",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "chhuk chhuk",
+    "Index": 1021
+  },
+  {
+    "Word": "chidiya udd",
+    "Hint": "_______ ___",
+    "Length": 10,
+    "Translation": "chidiya udd",
+    "Index": 1022
+  },
+  {
+    "Word": "chikitasak",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "chikitasak",
+    "Index": 1023
+  },
+  {
+    "Word": "curry patta",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "curry patta",
+    "Index": 1024
+  },
+  {
+    "Word": "dard-e-disco",
+    "Hint": "____-_-_____",
+    "Length": 10,
+    "Translation": "dard-e-disco",
+    "Index": 1025
+  },
+  {
+    "Word": "Dholu Bholu",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "Dholu Bholu",
+    "Index": 1026
+  },
+  {
+    "Word": "dhongi baba",
+    "Hint": "______ ____",
+    "Length": 10,
+    "Translation": "dhongi baba",
+    "Index": 1027
+  },
+  {
+    "Word": "drishtikon",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "drishtikon",
+    "Index": 1028
+  },
+  {
+    "Word": "Flying Jatt",
+    "Hint": "______ ____",
+    "Length": 10,
+    "Translation": "Flying Jatt",
+    "Index": 1029
+  },
+  {
+    "Word": "ghabhrahat",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "ghabhrahat",
+    "Index": 1030
+  },
+  {
+    "Word": "gilli danda",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "gilli danda",
+    "Index": 1031
+  },
+  {
+    "Word": "Good Knight",
+    "Hint": "____ ______",
+    "Length": 10,
+    "Translation": "Good Knight",
+    "Index": 1032
+  },
+  {
+    "Word": "grih kalesh",
+    "Hint": "____ ______",
+    "Length": 10,
+    "Translation": "grih kalesh",
+    "Index": 1033
+  },
+  {
+    "Word": "gulab jamun",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "gulab jamun",
+    "Index": 1034
+  },
+  {
+    "Word": "haath malna",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "haath malna",
+    "Index": 1035
+  },
+  {
+    "Word": "haath peele",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "haath peele",
+    "Index": 1036
+  },
+  {
+    "Word": "heeramandi",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "heeramandi",
+    "Index": 1037
+  },
+  {
+    "Word": "Honey Singh",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "Honey Singh",
+    "Index": 1038
+  },
+  {
+    "Word": "ja simran ja",
+    "Hint": "__ ______ __",
+    "Length": 10,
+    "Translation": "ja simran ja",
+    "Index": 1039
+  },
+  {
+    "Word": "jwalamukhi",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "jwalamukhi",
+    "Index": 1040
+  },
+  {
+    "Word": "kaan bharna",
+    "Hint": "____ ______",
+    "Length": 10,
+    "Translation": "kaan bharna",
+    "Index": 1041
+  },
+  {
+    "Word": "kabadiwala",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "kabadiwala",
+    "Index": 1042
+  },
+  {
+    "Word": "Kabir Singh",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "Kabir Singh",
+    "Index": 1043
+  },
+  {
+    "Word": "kamarbandh",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "kamarbandh",
+    "Index": 1044
+  },
+  {
+    "Word": "ladkhadana",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "ladkhadana",
+    "Index": 1045
+  },
+  {
+    "Word": "magarmachh",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "magarmachh",
+    "Index": 1046
+  },
+  {
+    "Word": "Mahabharat",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "Mahabharat",
+    "Index": 1047
+  },
+  {
+    "Word": "mansik rogi",
+    "Hint": "______ ____",
+    "Length": 10,
+    "Translation": "mansik rogi",
+    "Index": 1048
+  },
+  {
+    "Word": "Mughl-e-azam",
+    "Hint": "_____-_-____",
+    "Length": 10,
+    "Translation": "Mughl-e-azam",
+    "Index": 1049
+  },
+  {
+    "Word": "nagin dance",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "nagin dance",
+    "Index": 1050
+  },
+  {
+    "Word": "Neha Kakkar",
+    "Hint": "____ ______",
+    "Length": 10,
+    "Translation": "Neha Kakkar",
+    "Index": 1051
+  },
+  {
+    "Word": "nimbu mirch",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "nimbu mirch",
+    "Index": 1052
+  },
+  {
+    "Word": "nyaaydhish",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "nyaaydhish",
+    "Index": 1053
+  },
+  {
+    "Word": "Om Shanti Om",
+    "Hint": "__ ______ __",
+    "Length": 10,
+    "Translation": "Om Shanti Om",
+    "Index": 1054
+  },
+  {
+    "Word": "pagalkhana",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "pagalkhana",
+    "Index": 1055
+  },
+  {
+    "Word": "paneer roll",
+    "Hint": "______ ____",
+    "Length": 10,
+    "Translation": "paneer roll",
+    "Index": 1056
+  },
+  {
+    "Word": "phuski bomb",
+    "Hint": "______ ____",
+    "Length": 10,
+    "Translation": "phuski bomb",
+    "Index": 1057
+  },
+  {
+    "Word": "purna viram",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "purna viram",
+    "Index": 1058
+  },
+  {
+    "Word": "Rajnikanth",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "Rajnikanth",
+    "Index": 1059
+  },
+  {
+    "Word": "rumali roti",
+    "Hint": "______ ____",
+    "Length": 10,
+    "Translation": "rumali roti",
+    "Index": 1060
+  },
+  {
+    "Word": "sabji mandi",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "sabji mandi",
+    "Index": 1061
+  },
+  {
+    "Word": "Saiman Says",
+    "Hint": "______ ____",
+    "Length": 10,
+    "Translation": "Saiman Says",
+    "Index": 1062
+  },
+  {
+    "Word": "Salman Khan",
+    "Hint": "______ ____",
+    "Length": 10,
+    "Translation": "Salman Khan",
+    "Index": 1063
+  },
+  {
+    "Word": "sarkari nal",
+    "Hint": "_______ ___",
+    "Length": 10,
+    "Translation": "sarkari nal",
+    "Index": 1064
+  },
+  {
+    "Word": "sasta nasha",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "sasta nasha",
+    "Index": 1065
+  },
+  {
+    "Word": "sazaa-e-maut",
+    "Hint": "_____-_-____",
+    "Length": 10,
+    "Translation": "sazaa-e-maut",
+    "Index": 1066
+  },
+  {
+    "Word": "shubhkamna",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "shubhkamna",
+    "Index": 1067
+  },
+  {
+    "Word": "sone ka anda",
+    "Hint": "____ __ ____",
+    "Length": 10,
+    "Translation": "sone ka anda",
+    "Index": 1068
+  },
+  {
+    "Word": "taang adana",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "taang adana",
+    "Index": 1069
+  },
+  {
+    "Word": "Tedhe Medhe",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "Tedhe Medhe",
+    "Index": 1070
+  },
+  {
+    "Word": "tirth sthal",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "tirth sthal",
+    "Index": 1071
+  },
+  {
+    "Word": "ungli karna",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "ungli karna",
+    "Index": 1072
+  },
+  {
+    "Word": "vashikaran",
+    "Hint": "__________",
+    "Length": 10,
+    "Translation": "vashikaran",
+    "Index": 1073
+  },
+  {
+    "Word": "vidya kasam",
+    "Hint": "_____ _____",
+    "Length": 10,
+    "Translation": "vidya kasam",
+    "Index": 1074
+  },
+  {
+    "Word": "aam ka achaar",
+    "Hint": "___ __ ______",
+    "Length": 11,
+    "Translation": "aam ka achaar",
+    "Index": 1075
+  },
+  {
+    "Word": "aatishbaazi",
+    "Hint": "___________",
+    "Length": 11,
+    "Translation": "aatishbaazi",
+    "Index": 1076
+  },
+  {
+    "Word": "akbar birbal",
+    "Hint": "_____ ______",
+    "Length": 11,
+    "Translation": "akbar birbal",
+    "Index": 1077
+  },
+  {
+    "Word": "Akshay Kumar",
+    "Hint": "______ _____",
+    "Length": 11,
+    "Translation": "Akshay Kumar",
+    "Index": 1078
+  },
+  {
+    "Word": "ambar sariya",
+    "Hint": "_____ ______",
+    "Length": 11,
+    "Translation": "ambar sariya",
+    "Index": 1079
+  },
+  {
+    "Word": "amrit varsha",
+    "Hint": "_____ ______",
+    "Length": 11,
+    "Translation": "amrit varsha",
+    "Index": 1080
+  },
+  {
+    "Word": "andha kanoon",
+    "Hint": "_____ ______",
+    "Length": 11,
+    "Translation": "andha kanoon",
+    "Index": 1081
+  },
+  {
+    "Word": "baal ki khaal",
+    "Hint": "____ __ _____",
+    "Length": 11,
+    "Translation": "baal ki khaal",
+    "Index": 1082
+  },
+  {
+    "Word": "baraf ka gola",
+    "Hint": "_____ __ ____",
+    "Length": 11,
+    "Translation": "baraf ka gola",
+    "Index": 1083
+  },
+  {
+    "Word": "bhinbhinana",
+    "Hint": "___________",
+    "Length": 11,
+    "Translation": "bhinbhinana",
+    "Index": 1084
+  },
+  {
+    "Word": "bhoot bangla",
+    "Hint": "_____ ______",
+    "Length": 11,
+    "Translation": "bhoot bangla",
+    "Index": 1085
+  },
+  {
+    "Word": "brahmachari",
+    "Hint": "___________",
+    "Length": 11,
+    "Translation": "brahmachari",
+    "Index": 1086
+  },
+  {
+    "Word": "Carryminati",
+    "Hint": "___________",
+    "Length": 11,
+    "Translation": "Carryminati",
+    "Index": 1087
+  },
+  {
+    "Word": "Chak De India",
+    "Hint": "____ __ _____",
+    "Length": 11,
+    "Translation": "Chak De India",
+    "Index": 1088
+  },
+  {
+    "Word": "Chhota Bheem",
+    "Hint": "______ _____",
+    "Length": 11,
+    "Translation": "Chhota Bheem",
+    "Index": 1089
+  },
+  {
+    "Word": "chicken roll",
+    "Hint": "_______ ____",
+    "Length": 11,
+    "Translation": "chicken roll",
+    "Index": 1090
+  },
+  {
+    "Word": "dil ka dariya",
+    "Hint": "___ __ ______",
+    "Length": 11,
+    "Translation": "dil ka dariya",
+    "Index": 1091
+  },
+  {
+    "Word": "dimag ka dahi",
+    "Hint": "_____ __ ____",
+    "Length": 11,
+    "Translation": "dimag ka dahi",
+    "Index": 1092
+  },
+  {
+    "Word": "doordarshan",
+    "Hint": "___________",
+    "Length": 11,
+    "Translation": "doordarshan",
+    "Index": 1093
+  },
+  {
+    "Word": "Gabbar Singh",
+    "Hint": "______ _____",
+    "Length": 11,
+    "Translation": "Gabbar Singh",
+    "Index": 1094
+  },
+  {
+    "Word": "haath ki mail",
+    "Hint": "_____ __ ____",
+    "Length": 11,
+    "Translation": "haath ki mail",
+    "Index": 1095
+  },
+  {
+    "Word": "jhola chhaap",
+    "Hint": "_____ ______",
+    "Length": 11,
+    "Translation": "jhola chhaap",
+    "Index": 1096
+  },
+  {
+    "Word": "juta chhupai",
+    "Hint": "____ _______",
+    "Length": 11,
+    "Translation": "juta chhupai",
+    "Index": 1097
+  },
+  {
+    "Word": "kaankhajura",
+    "Hint": "___________",
+    "Length": 11,
+    "Translation": "kaankhajura",
+    "Index": 1098
+  },
+  {
+    "Word": "kadai paneer",
+    "Hint": "_____ ______",
+    "Length": 11,
+    "Translation": "kadai paneer",
+    "Index": 1099
+  },
+  {
+    "Word": "kanyakumari",
+    "Hint": "___________",
+    "Length": 11,
+    "Translation": "kanyakumari",
+    "Index": 1100
+  },
+  {
+    "Word": "karwa chauth",
+    "Hint": "_____ ______",
+    "Length": 11,
+    "Translation": "karwa chauth",
+    "Index": 1101
+  },
+  {
+    "Word": "khusurfusur",
+    "Hint": "___________",
+    "Length": 11,
+    "Translation": "khusurfusur",
+    "Index": 1102
+  },
+  {
+    "Word": "laghushanka",
+    "Hint": "___________",
+    "Length": 11,
+    "Translation": "laghushanka",
+    "Index": 1103
+  },
+  {
+    "Word": "lakadbaggha",
+    "Hint": "___________",
+    "Length": 11,
+    "Translation": "lakadbaggha",
+    "Index": 1104
+  },
+  {
+    "Word": "lukka chhupi",
+    "Hint": "_____ ______",
+    "Length": 11,
+    "Translation": "lukka chhupi",
+    "Index": 1105
+  },
+  {
+    "Word": "machhardani",
+    "Hint": "___________",
+    "Length": 11,
+    "Translation": "machhardani",
+    "Index": 1106
+  },
+  {
+    "Word": "madhumakkhi",
+    "Hint": "___________",
+    "Length": 11,
+    "Translation": "madhumakkhi",
+    "Index": 1107
+  },
+  {
+    "Word": "mangalsutra",
+    "Hint": "___________",
+    "Length": 11,
+    "Translation": "mangalsutra",
+    "Index": 1108
+  },
+  {
+    "Word": "muh tod jawab",
+    "Hint": "___ ___ _____",
+    "Length": 11,
+    "Translation": "muh tod jawab",
+    "Index": 1109
+  },
+  {
+    "Word": "nain matakka",
+    "Hint": "____ _______",
+    "Length": 11,
+    "Translation": "nain matakka",
+    "Index": 1110
+  },
+  {
+    "Word": "nariyal anna",
+    "Hint": "_______ ____",
+    "Length": 11,
+    "Translation": "nariyal anna",
+    "Index": 1111
+  },
+  {
+    "Word": "nukkad natak",
+    "Hint": "______ _____",
+    "Length": 11,
+    "Translation": "nukkad natak",
+    "Index": 1112
+  },
+  {
+    "Word": "pair pasarna",
+    "Hint": "____ _______",
+    "Length": 11,
+    "Translation": "pair pasarna",
+    "Index": 1113
+  },
+  {
+    "Word": "paneer tikka",
+    "Hint": "______ _____",
+    "Length": 11,
+    "Translation": "paneer tikka",
+    "Index": 1114
+  },
+  {
+    "Word": "patra lekhan",
+    "Hint": "_____ ______",
+    "Length": 11,
+    "Translation": "patra lekhan",
+    "Index": 1115
+  },
+  {
+    "Word": "peepal ka ped",
+    "Hint": "______ __ ___",
+    "Length": 11,
+    "Translation": "peepal ka ped",
+    "Index": 1116
+  },
+  {
+    "Word": "Rahul Gandhi",
+    "Hint": "_____ ______",
+    "Length": 11,
+    "Translation": "Rahul Gandhi",
+    "Index": 1117
+  },
+  {
+    "Word": "rajma chawal",
+    "Hint": "_____ ______",
+    "Length": 11,
+    "Translation": "rajma chawal",
+    "Index": 1118
+  },
+  {
+    "Word": "Rakhi Sawant",
+    "Hint": "_____ ______",
+    "Length": 11,
+    "Translation": "Rakhi Sawant",
+    "Index": 1119
+  },
+  {
+    "Word": "rang biranga",
+    "Hint": "____ _______",
+    "Length": 11,
+    "Translation": "rang biranga",
+    "Index": 1120
+  },
+  {
+    "Word": "raseele hoth",
+    "Hint": "_______ ____",
+    "Length": 11,
+    "Translation": "raseele hoth",
+    "Index": 1121
+  },
+  {
+    "Word": "Saif Ali Khan",
+    "Hint": "____ ___ ____",
+    "Length": 11,
+    "Translation": "Saif Ali Khan",
+    "Index": 1122
+  },
+  {
+    "Word": "shahi paneer",
+    "Hint": "_____ ______",
+    "Length": 11,
+    "Translation": "shahi paneer",
+    "Index": 1123
+  },
+  {
+    "Word": "sharadnjali",
+    "Hint": "___________",
+    "Length": 11,
+    "Translation": "sharadnjali",
+    "Index": 1124
+  },
+  {
+    "Word": "shimla mirch",
+    "Hint": "______ _____",
+    "Length": 11,
+    "Translation": "shimla mirch",
+    "Index": 1125
+  },
+  {
+    "Word": "shor sharaba",
+    "Hint": "____ _______",
+    "Length": 11,
+    "Translation": "shor sharaba",
+    "Index": 1126
+  },
+  {
+    "Word": "sone ki murgi",
+    "Hint": "____ __ _____",
+    "Length": 11,
+    "Translation": "sone ki murgi",
+    "Index": 1127
+  },
+  {
+    "Word": "Tuntun Mausi",
+    "Hint": "______ _____",
+    "Length": 11,
+    "Translation": "Tuntun Mausi",
+    "Index": 1128
+  },
+  {
+    "Word": "udankhatola",
+    "Hint": "___________",
+    "Length": 11,
+    "Translation": "udankhatola",
+    "Index": 1129
+  },
+  {
+    "Word": "Vikram Betal",
+    "Hint": "______ _____",
+    "Length": 11,
+    "Translation": "Vikram Betal",
+    "Index": 1130
+  },
+  {
+    "Word": "aadar satkaar",
+    "Hint": "_____ _______",
+    "Length": 12,
+    "Translation": "aadar satkaar",
+    "Index": 1131
+  },
+  {
+    "Word": "aaloobukhara",
+    "Hint": "____________",
+    "Length": 12,
+    "Translation": "aaloobukhara",
+    "Index": 1132
+  },
+  {
+    "Word": "badtameez dil",
+    "Hint": "_________ ___",
+    "Length": 12,
+    "Translation": "badtameez dil",
+    "Index": 1133
+  },
+  {
+    "Word": "bhinbhinahat",
+    "Hint": "____________",
+    "Length": 12,
+    "Translation": "bhinbhinahat",
+    "Index": 1134
+  },
+  {
+    "Word": "bhukh hartaal",
+    "Hint": "_____ _______",
+    "Length": 12,
+    "Translation": "bhukh hartaal",
+    "Index": 1135
+  },
+  {
+    "Word": "buddhi ke baal",
+    "Hint": "______ __ ____",
+    "Length": 12,
+    "Translation": "buddhi ke baal",
+    "Index": 1136
+  },
+  {
+    "Word": "chandani raat",
+    "Hint": "________ ____",
+    "Length": 12,
+    "Translation": "chandani raat",
+    "Index": 1137
+  },
+  {
+    "Word": "chandrabindu",
+    "Hint": "____________",
+    "Length": 12,
+    "Translation": "chandrabindu",
+    "Index": 1138
+  },
+  {
+    "Word": "charansparsh",
+    "Hint": "____________",
+    "Length": 12,
+    "Translation": "charansparsh",
+    "Index": 1139
+  },
+  {
+    "Word": "chicken kebab",
+    "Hint": "_______ _____",
+    "Length": 12,
+    "Translation": "chicken kebab",
+    "Index": 1140
+  },
+  {
+    "Word": "chicken keema",
+    "Hint": "_______ _____",
+    "Length": 12,
+    "Translation": "chicken keema",
+    "Index": 1141
+  },
+  {
+    "Word": "daal mein kala",
+    "Hint": "____ ____ ____",
+    "Length": 12,
+    "Translation": "daal mein kala",
+    "Index": 1142
+  },
+  {
+    "Word": "dharam sankat",
+    "Hint": "______ ______",
+    "Length": 12,
+    "Translation": "dharam sankat",
+    "Index": 1143
+  },
+  {
+    "Word": "fule na samana",
+    "Hint": "____ __ ______",
+    "Length": 12,
+    "Translation": "fule na samana",
+    "Index": 1144
+  },
+  {
+    "Word": "gajar ka halwa",
+    "Hint": "_____ __ _____",
+    "Length": 12,
+    "Translation": "gajar ka halwa",
+    "Index": 1145
+  },
+  {
+    "Word": "ganji chudail",
+    "Hint": "_____ _______",
+    "Length": 12,
+    "Translation": "ganji chudail",
+    "Index": 1146
+  },
+  {
+    "Word": "ganne ka juice",
+    "Hint": "_____ __ _____",
+    "Length": 12,
+    "Translation": "ganne ka juice",
+    "Index": 1147
+  },
+  {
+    "Word": "haath ki safai",
+    "Hint": "_____ __ _____",
+    "Length": 12,
+    "Translation": "haath ki safai",
+    "Index": 1148
+  },
+  {
+    "Word": "indradhanush",
+    "Hint": "____________",
+    "Length": 12,
+    "Translation": "indradhanush",
+    "Index": 1149
+  },
+  {
+    "Word": "jhanjhanahat",
+    "Hint": "____________",
+    "Length": 12,
+    "Translation": "jhanjhanahat",
+    "Index": 1150
+  },
+  {
+    "Word": "jhansi ki rani",
+    "Hint": "______ __ ____",
+    "Length": 12,
+    "Translation": "jhansi ki rani",
+    "Index": 1151
+  },
+  {
+    "Word": "kagaz ke phool",
+    "Hint": "_____ __ _____",
+    "Length": 12,
+    "Translation": "kagaz ke phool",
+    "Index": 1152
+  },
+  {
+    "Word": "kauwa biryani",
+    "Hint": "_____ _______",
+    "Length": 12,
+    "Translation": "kauwa biryani",
+    "Index": 1153
+  },
+  {
+    "Word": "khatta meetha",
+    "Hint": "______ ______",
+    "Length": 12,
+    "Translation": "khatta meetha",
+    "Index": 1154
+  },
+  {
+    "Word": "khatti dhakar",
+    "Hint": "______ ______",
+    "Length": 12,
+    "Translation": "khatti dhakar",
+    "Index": 1155
+  },
+  {
+    "Word": "khayali pualo",
+    "Hint": "_______ _____",
+    "Length": 12,
+    "Translation": "khayali pualo",
+    "Index": 1156
+  },
+  {
+    "Word": "khoon khaulna",
+    "Hint": "_____ _______",
+    "Length": 12,
+    "Translation": "khoon khaulna",
+    "Index": 1157
+  },
+  {
+    "Word": "maargdarshak",
+    "Hint": "____________",
+    "Length": 12,
+    "Translation": "maargdarshak",
+    "Index": 1158
+  },
+  {
+    "Word": "mann lalchana",
+    "Hint": "____ ________",
+    "Length": 12,
+    "Translation": "mann lalchana",
+    "Index": 1159
+  },
+  {
+    "Word": "Mukesh Ambani",
+    "Hint": "______ ______",
+    "Length": 12,
+    "Translation": "Mukesh Ambani",
+    "Index": 1160
+  },
+  {
+    "Word": "naak kat jaana",
+    "Hint": "____ ___ _____",
+    "Length": 12,
+    "Translation": "naak kat jaana",
+    "Index": 1161
+  },
+  {
+    "Word": "Narendra Modi",
+    "Hint": "________ ____",
+    "Length": 12,
+    "Translation": "Narendra Modi",
+    "Index": 1162
+  },
+  {
+    "Word": "nariyal paani",
+    "Hint": "_______ _____",
+    "Length": 12,
+    "Translation": "nariyal paani",
+    "Index": 1163
+  },
+  {
+    "Word": "pakdam pakdai",
+    "Hint": "______ ______",
+    "Length": 12,
+    "Translation": "pakdam pakdai",
+    "Index": 1164
+  },
+  {
+    "Word": "paneer nawabi",
+    "Hint": "______ ______",
+    "Length": 12,
+    "Translation": "paneer nawabi",
+    "Index": 1165
+  },
+  {
+    "Word": "Ranbir Kapoor",
+    "Hint": "______ ______",
+    "Length": 12,
+    "Translation": "Ranbir Kapoor",
+    "Index": 1166
+  },
+  {
+    "Word": "samshaan ghat",
+    "Hint": "________ ____",
+    "Length": 12,
+    "Translation": "samshaan ghat",
+    "Index": 1167
+  },
+  {
+    "Word": "samudri daaku",
+    "Hint": "_______ _____",
+    "Length": 12,
+    "Translation": "samudri daaku",
+    "Index": 1168
+  },
+  {
+    "Word": "Satte Pe Satta",
+    "Hint": "_____ __ _____",
+    "Length": 12,
+    "Translation": "Satte Pe Satta",
+    "Index": 1169
+  },
+  {
+    "Word": "Shah Rukh Khan",
+    "Hint": "____ ____ ____",
+    "Length": 12,
+    "Translation": "Shah Rukh Khan",
+    "Index": 1170
+  },
+  {
+    "Word": "Teesri Manzil",
+    "Hint": "______ ______",
+    "Length": 12,
+    "Translation": "Teesri Manzil",
+    "Index": 1171
+  },
+  {
+    "Word": "udantashtari",
+    "Hint": "____________",
+    "Length": 12,
+    "Translation": "udantashtari",
+    "Index": 1172
+  },
+  {
+    "Word": "ullu ka pattha",
+    "Hint": "____ __ ______",
+    "Length": 12,
+    "Translation": "ullu ka pattha",
+    "Index": 1173
+  },
+  {
+    "Word": "aankhon ka tara",
+    "Hint": "_______ __ ____",
+    "Length": 13,
+    "Translation": "aankhon ka tara",
+    "Index": 1174
+  },
+  {
+    "Word": "avishvashniya",
+    "Hint": "_____________",
+    "Length": 13,
+    "Translation": "avishvashniya",
+    "Index": 1175
+  },
+  {
+    "Word": "Band Baja Barat",
+    "Hint": "____ ____ _____",
+    "Length": 13,
+    "Translation": "Band Baja Barat",
+    "Index": 1176
+  },
+  {
+    "Word": "bhatakti aatma",
+    "Hint": "________ _____",
+    "Length": 13,
+    "Translation": "bhatakti aatma",
+    "Index": 1177
+  },
+  {
+    "Word": "bhavishyavani",
+    "Hint": "_____________",
+    "Length": 13,
+    "Translation": "bhavishyavani",
+    "Index": 1178
+  },
+  {
+    "Word": "chammak challo",
+    "Hint": "_______ ______",
+    "Length": 13,
+    "Translation": "chammak challo",
+    "Index": 1179
+  },
+  {
+    "Word": "chandani chauk",
+    "Hint": "________ _____",
+    "Length": 13,
+    "Translation": "chandani chauk",
+    "Index": 1180
+  },
+  {
+    "Word": "chhole bhature",
+    "Hint": "______ _______",
+    "Length": 13,
+    "Translation": "chhole bhature",
+    "Index": 1181
+  },
+  {
+    "Word": "dant chikitsak",
+    "Hint": "____ _________",
+    "Length": 13,
+    "Translation": "dant chikitsak",
+    "Index": 1182
+  },
+  {
+    "Word": "Dhinchak Pooja",
+    "Hint": "________ _____",
+    "Length": 13,
+    "Translation": "Dhinchak Pooja",
+    "Index": 1183
+  },
+  {
+    "Word": "Hrithik Roshan",
+    "Hint": "_______ ______",
+    "Length": 13,
+    "Translation": "Hrithik Roshan",
+    "Index": 1184
+  },
+  {
+    "Word": "jaadu ki jhappi",
+    "Hint": "_____ __ ______",
+    "Length": 13,
+    "Translation": "jaadu ki jhappi",
+    "Index": 1185
+  },
+  {
+    "Word": "jaanleva hamla",
+    "Hint": "________ _____",
+    "Length": 13,
+    "Translation": "jaanleva hamla",
+    "Index": 1186
+  },
+  {
+    "Word": "kanoon ke haath",
+    "Hint": "______ __ _____",
+    "Length": 13,
+    "Translation": "kanoon ke haath",
+    "Index": 1187
+  },
+  {
+    "Word": "khoon ka rishta",
+    "Hint": "_____ __ ______",
+    "Length": 13,
+    "Translation": "khoon ka rishta",
+    "Index": 1188
+  },
+  {
+    "Word": "khushi ke aansu",
+    "Hint": "______ __ _____",
+    "Length": 13,
+    "Translation": "khushi ke aansu",
+    "Index": 1189
+  },
+  {
+    "Word": "lacheeli kamar",
+    "Hint": "________ _____",
+    "Length": 13,
+    "Translation": "lacheeli kamar",
+    "Index": 1190
+  },
+  {
+    "Word": "Laila Aur Majnu",
+    "Hint": "_____ ___ _____",
+    "Length": 13,
+    "Translation": "Laila Aur Majnu",
+    "Index": 1191
+  },
+  {
+    "Word": "Lakshman Rekha",
+    "Hint": "________ _____",
+    "Length": 13,
+    "Translation": "Lakshman Rekha",
+    "Index": 1192
+  },
+  {
+    "Word": "loh path gamini",
+    "Hint": "___ ____ ______",
+    "Length": 13,
+    "Translation": "loh path gamini",
+    "Index": 1193
+  },
+  {
+    "Word": "lucky the racer",
+    "Hint": "_____ ___ _____",
+    "Length": 13,
+    "Translation": "lucky the racer",
+    "Index": 1194
+  },
+  {
+    "Word": "Manmohan Singh",
+    "Hint": "________ _____",
+    "Length": 13,
+    "Translation": "Manmohan Singh",
+    "Index": 1195
+  },
+  {
+    "Word": "Munna Bhai MBBS",
+    "Hint": "_____ ____ ____",
+    "Length": 13,
+    "Translation": "Munna Bhai MBBS",
+    "Index": 1196
+  },
+  {
+    "Word": "Nathuram Godse",
+    "Hint": "________ _____",
+    "Length": 13,
+    "Translation": "Nathuram Godse",
+    "Index": 1197
+  },
+  {
+    "Word": "paneer afghani",
+    "Hint": "______ _______",
+    "Length": 13,
+    "Translation": "paneer afghani",
+    "Index": 1198
+  },
+  {
+    "Word": "paneer do pyaza",
+    "Hint": "______ __ _____",
+    "Length": 13,
+    "Translation": "paneer do pyaza",
+    "Index": 1199
+  },
+  {
+    "Word": "paneer patiala",
+    "Hint": "______ _______",
+    "Length": 13,
+    "Translation": "paneer patiala",
+    "Index": 1200
+  },
+  {
+    "Word": "pheke hue paise",
+    "Hint": "_____ ___ _____",
+    "Length": 13,
+    "Translation": "pheke hue paise",
+    "Index": 1201
+  },
+  {
+    "Word": "pradhanmantri",
+    "Hint": "_____________",
+    "Length": 13,
+    "Translation": "pradhanmantri",
+    "Index": 1202
+  },
+  {
+    "Word": "pyar ka chakkar",
+    "Hint": "____ __ _______",
+    "Length": 13,
+    "Translation": "pyar ka chakkar",
+    "Index": 1203
+  },
+  {
+    "Word": "sone ki chidiya",
+    "Hint": "____ __ _______",
+    "Length": 13,
+    "Translation": "sone ki chidiya",
+    "Index": 1204
+  },
+  {
+    "Word": "suskhmadarshi",
+    "Hint": "_____________",
+    "Length": 13,
+    "Translation": "suskhmadarshi",
+    "Index": 1205
+  },
+  {
+    "Word": "taang kheechna",
+    "Hint": "_____ ________",
+    "Length": 13,
+    "Translation": "taang kheechna",
+    "Index": 1206
+  },
+  {
+    "Word": "Arvind Kejriwal",
+    "Hint": "______ ________",
+    "Length": 14,
+    "Translation": "Arvind Kejriwal",
+    "Index": 1207
+  },
+  {
+    "Word": "chandu ke chacha",
+    "Hint": "______ __ ______",
+    "Length": 14,
+    "Translation": "chandu ke chacha",
+    "Index": 1208
+  },
+  {
+    "Word": "chandu ki chachi",
+    "Hint": "______ __ ______",
+    "Length": 14,
+    "Translation": "chandu ki chachi",
+    "Index": 1209
+  },
+  {
+    "Word": "chhupan chhupai",
+    "Hint": "_______ _______",
+    "Length": 14,
+    "Translation": "chhupan chhupai",
+    "Index": 1210
+  },
+  {
+    "Word": "chicken do pyaza",
+    "Hint": "_______ __ _____",
+    "Length": 14,
+    "Translation": "chicken do pyaza",
+    "Index": 1211
+  },
+  {
+    "Word": "gurutvakarshan",
+    "Hint": "______________",
+    "Length": 14,
+    "Translation": "gurutvakarshan",
+    "Index": 1212
+  },
+  {
+    "Word": "Hindustani Bhau",
+    "Hint": "__________ ____",
+    "Length": 14,
+    "Translation": "Hindustani Bhau",
+    "Index": 1213
+  },
+  {
+    "Word": "kebab mein haddi",
+    "Hint": "_____ ____ _____",
+    "Length": 14,
+    "Translation": "kebab mein haddi",
+    "Index": 1214
+  },
+  {
+    "Word": "keetnashak dawa",
+    "Hint": "__________ ____",
+    "Length": 14,
+    "Translation": "keetnashak dawa",
+    "Index": 1215
+  },
+  {
+    "Word": "kishore awastha",
+    "Hint": "_______ _______",
+    "Length": 14,
+    "Translation": "kishore awastha",
+    "Index": 1216
+  },
+  {
+    "Word": "maathe ki shikan",
+    "Hint": "______ __ ______",
+    "Length": 14,
+    "Translation": "maathe ki shikan",
+    "Index": 1217
+  },
+  {
+    "Word": "maut ka saudagar",
+    "Hint": "____ __ ________",
+    "Length": 14,
+    "Translation": "maut ka saudagar",
+    "Index": 1218
+  },
+  {
+    "Word": "paneer lababdar",
+    "Hint": "______ ________",
+    "Length": 14,
+    "Translation": "paneer lababdar",
+    "Index": 1219
+  },
+  {
+    "Word": "pasandida aurat",
+    "Hint": "_________ _____",
+    "Length": 14,
+    "Translation": "pasandida aurat",
+    "Index": 1220
+  },
+  {
+    "Word": "pashu chikitsak",
+    "Hint": "_____ _________",
+    "Length": 14,
+    "Translation": "pashu chikitsak",
+    "Index": 1221
+  },
+  {
+    "Word": "Sharma ji ka beta",
+    "Hint": "______ __ __ ____",
+    "Length": 14,
+    "Translation": "Sharma ji ka beta",
+    "Index": 1222
+  },
+  {
+    "Word": "shuddh desi ghee",
+    "Hint": "______ ____ ____",
+    "Length": 14,
+    "Translation": "shuddh desi ghee",
+    "Index": 1223
+  },
+  {
+    "Word": "Taare Zameen Par",
+    "Hint": "_____ ______ ___",
+    "Length": 14,
+    "Translation": "Taare Zameen Par",
+    "Index": 1224
+  },
+  {
+    "Word": "tichki tuuiyaan",
+    "Hint": "______ ________",
+    "Length": 14,
+    "Translation": "tichki tuuiyaan",
+    "Index": 1225
+  },
+  {
+    "Word": "Yogi Adityanath",
+    "Hint": "____ __________",
+    "Length": 14,
+    "Translation": "Yogi Adityanath",
+    "Index": 1226
+  },
+  {
+    "Word": "11 mulko ki police",
+    "Hint": "__ _____ __ ______",
+    "Length": 15,
+    "Translation": "11 mulko ki police",
+    "Index": 1227
+  },
+  {
+    "Word": "aa bail mujhe maar",
+    "Hint": "__ ____ _____ ____",
+    "Length": 15,
+    "Translation": "aa bail mujhe maar",
+    "Index": 1228
+  },
+  {
+    "Word": "Amitabh Bachchan",
+    "Hint": "_______ ________",
+    "Length": 15,
+    "Translation": "Amitabh Bachchan",
+    "Index": 1229
+  },
+  {
+    "Word": "ashcharyachakit",
+    "Hint": "_______________",
+    "Length": 15,
+    "Translation": "ashcharyachakit",
+    "Index": 1230
+  },
+  {
+    "Word": "chaar botal vodka",
+    "Hint": "_____ _____ _____",
+    "Length": 15,
+    "Translation": "chaar botal vodka",
+    "Index": 1231
+  },
+  {
+    "Word": "Chacha Chaudhary",
+    "Hint": "______ _________",
+    "Length": 15,
+    "Translation": "Chacha Chaudhary",
+    "Index": 1232
+  },
+  {
+    "Word": "dil garden garden",
+    "Hint": "___ ______ ______",
+    "Length": 15,
+    "Translation": "dil garden garden",
+    "Index": 1233
+  },
+  {
+    "Word": "ek anaar sau bimar",
+    "Hint": "__ _____ ___ _____",
+    "Length": 15,
+    "Translation": "ek anaar sau bimar",
+    "Index": 1234
+  },
+  {
+    "Word": "khoon bhari maang",
+    "Hint": "_____ _____ _____",
+    "Length": 15,
+    "Translation": "khoon bhari maang",
+    "Index": 1235
+  },
+  {
+    "Word": "nau do gyarah hona",
+    "Hint": "___ __ ______ ____",
+    "Length": 15,
+    "Translation": "nau do gyarah hona",
+    "Index": 1236
+  },
+  {
+    "Word": "paneer hyderbadi",
+    "Hint": "______ _________",
+    "Length": 15,
+    "Translation": "paneer hyderbadi",
+    "Index": 1237
+  },
+  {
+    "Word": "Rab Ne Bana Di Jodi",
+    "Hint": "___ __ ____ __ ____",
+    "Length": 15,
+    "Translation": "Rab Ne Bana Di Jodi",
+    "Index": 1238
+  },
+  {
+    "Word": "sapno ka rajkumar",
+    "Hint": "_____ __ ________",
+    "Length": 15,
+    "Translation": "sapno ka rajkumar",
+    "Index": 1239
+  },
+  {
+    "Word": "100 topon ki salami",
+    "Hint": "___ _____ __ ______",
+    "Length": 16,
+    "Translation": "100 topon ki salami",
+    "Index": 1240
+  },
+  {
+    "Word": "akal badi ya bhains",
+    "Hint": "____ ____ __ ______",
+    "Length": 16,
+    "Translation": "akal badi ya bhains",
+    "Index": 1241
+  },
+  {
+    "Word": "baaye haath ka khel",
+    "Hint": "_____ _____ __ ____",
+    "Length": 16,
+    "Translation": "baaye haath ka khel",
+    "Index": 1242
+  },
+  {
+    "Word": "Bajrangi Bhaijaan",
+    "Hint": "________ ________",
+    "Length": 16,
+    "Translation": "Bajrangi Bhaijaan",
+    "Index": 1243
+  },
+  {
+    "Word": "chashmadeed gawah",
+    "Hint": "___________ _____",
+    "Length": 16,
+    "Translation": "chashmadeed gawah",
+    "Index": 1244
+  },
+  {
+    "Word": "do boond zindagi ki",
+    "Hint": "__ _____ _______ __",
+    "Length": 16,
+    "Translation": "do boond zindagi ki",
+    "Index": 1245
+  },
+  {
+    "Word": "pairon mein jannat",
+    "Hint": "______ ____ ______",
+    "Length": 16,
+    "Translation": "pairon mein jannat",
+    "Index": 1246
+  },
+  {
+    "Word": "sharirik sambandh",
+    "Hint": "________ ________",
+    "Length": 16,
+    "Translation": "sharirik sambandh",
+    "Index": 1247
+  },
+  {
+    "Word": "sharvashaktimaan",
+    "Hint": "________________",
+    "Length": 16,
+    "Translation": "sharvashaktimaan",
+    "Index": 1248
+  },
+  {
+    "Word": "aage kua peeche khai",
+    "Hint": "____ ___ ______ ____",
+    "Length": 17,
+    "Translation": "aage kua peeche khai",
+    "Index": 1249
+  },
+  {
+    "Word": "blue eyes hypnotize",
+    "Hint": "____ ____ _________",
+    "Length": 17,
+    "Translation": "blue eyes hypnotize",
+    "Index": 1250
+  },
+  {
+    "Word": "chaandi ka chammach",
+    "Hint": "_______ __ ________",
+    "Length": 17,
+    "Translation": "chaandi ka chammach",
+    "Index": 1251
+  },
+  {
+    "Word": "chaar chaand lagana",
+    "Hint": "_____ ______ ______",
+    "Length": 17,
+    "Translation": "chaar chaand lagana",
+    "Index": 1252
+  },
+  {
+    "Word": "chhoti bachhi ho kya",
+    "Hint": "______ ______ __ ___",
+    "Length": 17,
+    "Translation": "chhoti bachhi ho kya",
+    "Index": 1253
+  },
+  {
+    "Word": "jab jaago tab savera",
+    "Hint": "___ _____ ___ ______",
+    "Length": 17,
+    "Translation": "jab jaago tab savera",
+    "Index": 1254
+  },
+  {
+    "Word": "na ghar ka na ghaat ka",
+    "Hint": "__ ____ __ __ _____ __",
+    "Length": 17,
+    "Translation": "na ghar ka na ghaat ka",
+    "Index": 1255
+  },
+  {
+    "Word": "pet mein chuhe kudna",
+    "Hint": "___ ____ _____ _____",
+    "Length": 17,
+    "Translation": "pet mein chuhe kudna",
+    "Index": 1256
+  },
+  {
+    "Word": "rasode mein kaun tha",
+    "Hint": "______ ____ ____ ___",
+    "Length": 17,
+    "Translation": "rasode mein kaun tha",
+    "Index": 1257
+  },
+  {
+    "Word": "roti kapda aur makan",
+    "Hint": "____ _____ ___ _____",
+    "Length": 17,
+    "Translation": "roti kapda aur makan",
+    "Index": 1258
+  },
+  {
+    "Word": "Shaka Laka Boom Boom",
+    "Hint": "_____ ____ ____ ____",
+    "Length": 17,
+    "Translation": "Shaka Laka Boom Boom",
+    "Index": 1259
+  },
+  {
+    "Word": "Toilet Ek Prem Katha",
+    "Hint": "______ __ ____ _____",
+    "Length": 17,
+    "Translation": "Toilet Ek Prem Katha",
+    "Index": 1260
+  },
+  {
+    "Word": "daal mein kuchh kaala",
+    "Hint": "____ ____ _____ _____",
+    "Length": 18,
+    "Translation": "daal mein kuchh kaala",
+    "Index": 1261
+  },
+  {
+    "Word": "gayi bhais paani mein",
+    "Hint": "____ _____ _____ ____",
+    "Length": 18,
+    "Translation": "gayi bhais paani mein",
+    "Index": 1262
+  },
+  {
+    "Word": "khoon pasine ki kamai",
+    "Hint": "_____ ______ __ _____",
+    "Length": 18,
+    "Translation": "khoon pasine ki kamai",
+    "Index": 1263
+  },
+  {
+    "Word": "Mard Ko Dard Nahi Hota",
+    "Hint": "____ __ ____ ____ ____",
+    "Length": 18,
+    "Translation": "Mard Ko Dard Nahi Hota",
+    "Index": 1264
+  },
+  {
+    "Word": "Mujhse Shaadi Karogi",
+    "Hint": "______ ______ ______",
+    "Length": 18,
+    "Translation": "Mujhse Shaadi Karogi",
+    "Index": 1265
+  },
+  {
+    "Word": "prashnasuchak chinh",
+    "Hint": "_____________ _____",
+    "Length": 18,
+    "Translation": "prashnasuchak chinh",
+    "Index": 1266
+  },
+  {
+    "Word": "tujhme rab dikhta hai",
+    "Hint": "______ ___ ______ ___",
+    "Length": 18,
+    "Translation": "tujhme rab dikhta hai",
+    "Index": 1267
+  },
+  {
+    "Word": "muhn mein ghee shakkar",
+    "Hint": "____ ____ ____ _______",
+    "Length": 19,
+    "Translation": "muhn mein ghee shakkar",
+    "Index": 1268
+  },
+  {
+    "Word": "oont ke muhn mein jeera",
+    "Hint": "____ __ ____ ____ _____",
+    "Length": 19,
+    "Translation": "oont ke muhn mein jeera",
+    "Index": 1269
+  },
+  {
+    "Word": "paka ped ya paka papita",
+    "Hint": "____ ___ __ ____ ______",
+    "Length": 19,
+    "Translation": "paka ped ya paka papita",
+    "Index": 1270
+  },
+  {
+    "Word": "pake ped ko pakde pinku",
+    "Hint": "____ ___ __ _____ _____",
+    "Length": 19,
+    "Translation": "pake ped ko pakde pinku",
+    "Index": 1271
+  },
+  {
+    "Word": "sau sunar ki ek luhar ki",
+    "Hint": "___ _____ __ __ _____ __",
+    "Length": 19,
+    "Translation": "sau sunar ki ek luhar ki",
+    "Index": 1272
+  },
+  {
+    "Word": "chhaati par saanp lotna",
+    "Hint": "_______ ___ _____ _____",
+    "Length": 20,
+    "Translation": "chhaati par saanp lotna",
+    "Index": 1273
+  },
+  {
+    "Word": "chipi chipi chapa chapa",
+    "Hint": "_____ _____ _____ _____",
+    "Length": 20,
+    "Translation": "chipi chipi chapa chapa",
+    "Index": 1274
+  },
+  {
+    "Word": "Kabhi Khushi Kabhi Gham",
+    "Hint": "_____ ______ _____ ____",
+    "Length": 20,
+    "Translation": "Kabhi Khushi Kabhi Gham",
+    "Index": 1275
+  },
+  {
+    "Word": "pake ped par paka papita",
+    "Hint": "____ ___ ___ ____ ______",
+    "Length": 20,
+    "Translation": "pake ped par paka papita",
+    "Index": 1276
+  },
+  {
+    "Word": "pinku pakde paka papita",
+    "Hint": "_____ _____ ____ ______",
+    "Length": 20,
+    "Translation": "pinku pakde paka papita",
+    "Index": 1277
+  },
+  {
+    "Word": "raja mantri chor sipahi",
+    "Hint": "____ ______ ____ ______",
+    "Length": 20,
+    "Translation": "raja mantri chor sipahi",
+    "Index": 1278
+  },
+  {
+    "Word": "samshrutibhinnarthak",
+    "Hint": "____________________",
+    "Length": 20,
+    "Translation": "samshrutibhinnarthak",
+    "Index": 1279
+  },
+  {
+    "Word": "jiski laathi uski bhains",
+    "Hint": "_____ ______ ____ ______",
+    "Length": 21,
+    "Translation": "jiski laathi uski bhains",
+    "Index": 1280
+  },
+  {
+    "Word": "kachha papad pakka papad",
+    "Hint": "______ _____ _____ _____",
+    "Length": 21,
+    "Translation": "kachha papad pakka papad",
+    "Index": 1281
+  },
+  {
+    "Word": "naam liya shaitan haazir",
+    "Hint": "____ ____ _______ ______",
+    "Length": 21,
+    "Translation": "naam liya shaitan haazir",
+    "Index": 1282
+  },
+  {
+    "Word": "Once Upon A Time In Mumbai",
+    "Hint": "____ ____ _ ____ __ ______",
+    "Length": 21,
+    "Translation": "Once Upon A Time In Mumbai",
+    "Index": 1283
+  },
+  {
+    "Word": "singhdana. aarthik tangi",
+    "Hint": "_________. _______ _____",
+    "Length": 21,
+    "Translation": "singhdana. aarthik tangi",
+    "Index": 1284
+  },
+  {
+    "Word": "aankhon mein dhool jhokna",
+    "Hint": "_______ ____ _____ ______",
+    "Length": 22,
+    "Translation": "aankhon mein dhool jhokna",
+    "Index": 1285
+  },
+  {
+    "Word": "bhains ke aage been bajana",
+    "Hint": "______ __ ____ ____ ______",
+    "Length": 22,
+    "Translation": "bhains ke aage been bajana",
+    "Index": 1286
+  },
+  {
+    "Word": "ghar ki murgi daal barabar",
+    "Hint": "____ __ _____ ____ _______",
+    "Length": 22,
+    "Translation": "ghar ki murgi daal barabar",
+    "Index": 1287
+  },
+  {
+    "Word": "khadak singh ki khidkiyan",
+    "Hint": "______ _____ __ _________",
+    "Length": 22,
+    "Translation": "khadak singh ki khidkiyan",
+    "Index": 1288
+  },
+  {
+    "Word": "ulta chor kotwal ko daante",
+    "Hint": "____ ____ ______ __ ______",
+    "Length": 22,
+    "Translation": "ulta chor kotwal ko daante",
+    "Index": 1289
+  },
+  {
+    "Word": "vishmyadhibodhak chinhh",
+    "Hint": "________________ ______",
+    "Length": 22,
+    "Translation": "vishmyadhibodhak chinhh",
+    "Index": 1290
+  },
+  {
+    "Word": "chhota packet bada dhamaka",
+    "Hint": "______ ______ ____ _______",
+    "Length": 23,
+    "Translation": "chhota packet bada dhamaka",
+    "Index": 1291
+  },
+  {
+    "Word": "bandar kya jane adrak ka swad",
+    "Hint": "______ ___ ____ _____ __ ____",
+    "Length": 24,
+    "Translation": "bandar kya jane adrak ka swad",
+    "Index": 1292
+  },
+  {
+    "Word": "Mohandas Karamchand Gandhi",
+    "Hint": "________ __________ ______",
+    "Length": 24,
+    "Translation": "Mohandas Karamchand Gandhi",
+    "Index": 1293
+  },
+  {
+    "Word": "buri nazar wale tera muhn kala",
+    "Hint": "____ _____ ____ ____ ____ ____",
+    "Length": 25,
+    "Translation": "buri nazar wale tera muhn kala",
+    "Index": 1294
+  },
+  {
+    "Word": "Dilwale Dulhaniya Le Jayenge",
+    "Hint": "_______ _________ __ _______",
+    "Length": 25,
+    "Translation": "Dilwale Dulhaniya Le Jayenge",
+    "Index": 1295
+  }
+]
+
+
